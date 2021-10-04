@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ladění</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Slova</text>
+      </navLabel>
+      <content src="Text/ladeni_006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>DO USÍNÁNÍ…</text>
+      </navLabel>
+      <content src="Text/ladeni_007.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Ladění</text>
+        </navLabel>
+        <content src="Text/ladeni_008.xhtml#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Poučení otcovské</text>
+        </navLabel>
+        <content src="Text/ladeni_009.xhtml#toc_marker-1-2"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Poučení synovské</text>
+        </navLabel>
+        <content src="Text/ladeni_010.xhtml#toc_marker-1-3"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Před usnutím I</text>
+        </navLabel>
+        <content src="Text/ladeni_011.xhtml#toc_marker-1-4"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Před usnutím II</text>
+        </navLabel>
+        <content src="Text/ladeni_012.xhtml#toc_marker-1-5"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Před usnutím III</text>
+        </navLabel>
+        <content src="Text/ladeni_013.xhtml#toc_marker-1-6"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Hádanka první</text>
+        </navLabel>
+        <content src="Text/ladeni_014.xhtml#toc_marker-1-7"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Hádanka druhá</text>
+        </navLabel>
+        <content src="Text/ladeni_015.xhtml#toc_marker-1-8"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Hádanka třetí s rozřešením</text>
+        </navLabel>
+        <content src="Text/ladeni_016.xhtml#toc_marker-1-9"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Velikonoční</text>
+        </navLabel>
+        <content src="Text/ladeni_017.xhtml#toc_marker-1-10"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Stínohry</text>
+        </navLabel>
+        <content src="Text/ladeni_018.xhtml#toc_marker-1-11"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Písnička</text>
+        </navLabel>
+        <content src="Text/ladeni_019.xhtml#toc_marker-1-12"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Mlýnek</text>
+        </navLabel>
+        <content src="Text/ladeni_020.xhtml#toc_marker-1-13"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Jak to kdo vidí</text>
+        </navLabel>
+        <content src="Text/ladeni_021.xhtml#toc_marker-1-14"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Proč</text>
+        </navLabel>
+        <content src="Text/ladeni_022.xhtml#toc_marker-1-15"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Báchorka</text>
+        </navLabel>
+        <content src="Text/ladeni_023.xhtml#toc_marker-1-16"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Povídačka</text>
+        </navLabel>
+        <content src="Text/ladeni_024.xhtml#toc_marker-1-17"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Domeček</text>
+        </navLabel>
+        <content src="Text/ladeni_025.xhtml#toc_marker-1-18"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Jak přišla hrdlička k pásce</text>
+        </navLabel>
+        <content src="Text/ladeni_026.xhtml#toc_marker-1-19"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>František</text>
+        </navLabel>
+        <content src="Text/ladeni_027.xhtml#toc_marker-1-20"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>HOŘKÁ…</text>
+      </navLabel>
+      <content src="Text/ladeni_028.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Není jména</text>
+        </navLabel>
+        <content src="Text/ladeni_029.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Déšť v dubnu</text>
+        </navLabel>
+        <content src="Text/ladeni_030.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Déšť v listopadu</text>
+        </navLabel>
+        <content src="Text/ladeni_031.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Svítáníčko</text>
+        </navLabel>
+        <content src="Text/ladeni_032.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Loutna</text>
+        </navLabel>
+        <content src="Text/ladeni_033.xhtml#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Střídání</text>
+        </navLabel>
+        <content src="Text/ladeni_034.xhtml#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Hořká</text>
+        </navLabel>
+        <content src="Text/ladeni_035.xhtml#toc_marker-2-7"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Nic víc</text>
+        </navLabel>
+        <content src="Text/ladeni_036.xhtml#toc_marker-2-8"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Loučení</text>
+        </navLabel>
+        <content src="Text/ladeni_037.xhtml#toc_marker-2-9"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Přání</text>
+        </navLabel>
+        <content src="Text/ladeni_038.xhtml#toc_marker-2-10"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Ještě teď</text>
+        </navLabel>
+        <content src="Text/ladeni_039.xhtml#toc_marker-2-11"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Jen tak</text>
+        </navLabel>
+        <content src="Text/ladeni_040.xhtml#toc_marker-2-12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>PSÍ VÍNO</text>
+      </navLabel>
+      <content src="Text/ladeni_041.xhtml#toc_marker-3"/>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Psí víno</text>
+        </navLabel>
+        <content src="Text/ladeni_042.xhtml#toc_marker-3-1"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Básník</text>
+        </navLabel>
+        <content src="Text/ladeni_043.xhtml#toc_marker-3-2"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Sláva slova</text>
+        </navLabel>
+        <content src="Text/ladeni_044.xhtml#toc_marker-3-3"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Radosti…</text>
+        </navLabel>
+        <content src="Text/ladeni_045.xhtml#toc_marker-3-4"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Hledání</text>
+        </navLabel>
+        <content src="Text/ladeni_046.xhtml#toc_marker-3-5"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Ráno</text>
+        </navLabel>
+        <content src="Text/ladeni_047.xhtml#toc_marker-3-6"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Pod Zvičinou</text>
+        </navLabel>
+        <content src="Text/ladeni_048.xhtml#toc_marker-3-7"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Chudáci</text>
+        </navLabel>
+        <content src="Text/ladeni_049.xhtml#toc_marker-3-8"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Vinice</text>
+        </navLabel>
+        <content src="Text/ladeni_050.xhtml#toc_marker-3-9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>STISKY</text>
+      </navLabel>
+      <content src="Text/ladeni_051.xhtml#toc_marker-4"/>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Dnes zrovna tak</text>
+        </navLabel>
+        <content src="Text/ladeni_052.xhtml#toc_marker-4-1"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Vypravěč</text>
+        </navLabel>
+        <content src="Text/ladeni_053.xhtml#toc_marker-4-2"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Karlu Tomanovi</text>
+        </navLabel>
+        <content src="Text/ladeni_054.xhtml#toc_marker-4-3"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Pro Antonína Procházku</text>
+        </navLabel>
+        <content src="Text/ladeni_055.xhtml#toc_marker-4-4"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Přes paletu</text>
+        </navLabel>
+        <content src="Text/ladeni_056.xhtml#toc_marker-4-5"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Petru Bezručovi</text>
+        </navLabel>
+        <content src="Text/ladeni_057.xhtml#toc_marker-4-6"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Krysař</text>
+        </navLabel>
+        <content src="Text/ladeni_058.xhtml#toc_marker-4-7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>ZA HROB</text>
+      </navLabel>
+      <content src="Text/ladeni_059.xhtml#toc_marker-5"/>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Smrt Jiřího Mahena</text>
+        </navLabel>
+        <content src="Text/ladeni_060.xhtml#toc_marker-5-1"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Za Jiřím Ortenem</text>
+        </navLabel>
+        <content src="Text/ladeni_061.xhtml#toc_marker-5-2"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Na hrob Hanuše Jelínka</text>
+        </navLabel>
+        <content src="Text/ladeni_062.xhtml#toc_marker-5-3"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>In memoriam</text>
+        </navLabel>
+        <content src="Text/ladeni_063.xhtml#toc_marker-5-4"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Bedřich Smetana</text>
+        </navLabel>
+        <content src="Text/ladeni_064.xhtml#toc_marker-5-5"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Variace na nerudovské téma</text>
+        </navLabel>
+        <content src="Text/ladeni_065.xhtml#toc_marker-5-6"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Otec a syn</text>
+        </navLabel>
+        <content src="Text/ladeni_066.xhtml#toc_marker-5-7"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Za básníkem</text>
+        </navLabel>
+        <content src="Text/ladeni_067.xhtml#toc_marker-5-8"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Opuštěná paleta</text>
+        </navLabel>
+        <content src="Text/ladeni_068.xhtml#toc_marker-5-9"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Přípravce soudů</text>
+        </navLabel>
+        <content src="Text/ladeni_069.xhtml#toc_marker-5-10"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>F. X. Š.</text>
+        </navLabel>
+        <content src="Text/ladeni_070.xhtml#toc_marker-5-11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>HREJME DÁLE</text>
+      </navLabel>
+      <content src="Text/ladeni_071.xhtml#toc_marker-6"/>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Hrejme dále</text>
+        </navLabel>
+        <content src="Text/ladeni_072.xhtml#toc_marker-6-1"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Památce K. H. M.</text>
+        </navLabel>
+        <content src="Text/ladeni_073.xhtml#toc_marker-6-2"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Březen 1939</text>
+        </navLabel>
+        <content src="Text/ladeni_074.xhtml#toc_marker-6-3"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Prosba</text>
+        </navLabel>
+        <content src="Text/ladeni_075.xhtml#toc_marker-6-4"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
