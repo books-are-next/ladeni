@@ -1,0 +1,104 @@
+---
+outputs: meta
+slug: book
+contentType: prose
+languageCode: cs
+meta:
+  title: Ladění
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: František Halas
+  publisher: Městská knihovna v Praze
+  modified: '2021-10-04T09:05:37.248Z'
+  languageCode: cs
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
+  - ladeni_001.html
+  - ladeni_002.html
+  - ladeni_003.html
+  - ladeni_004.html
+  - ladeni_005.html
+  - ladeni_006.html
+  - ladeni_007.html
+  - ladeni_008.html
+  - ladeni_009.html
+  - ladeni_010.html
+  - ladeni_011.html
+  - ladeni_012.html
+  - ladeni_013.html
+  - ladeni_014.html
+  - ladeni_015.html
+  - ladeni_016.html
+  - ladeni_017.html
+  - ladeni_018.html
+  - ladeni_019.html
+  - ladeni_020.html
+  - ladeni_021.html
+  - ladeni_022.html
+  - ladeni_023.html
+  - ladeni_024.html
+  - ladeni_025.html
+  - ladeni_026.html
+  - ladeni_027.html
+  - ladeni_028.html
+  - ladeni_029.html
+  - ladeni_030.html
+  - ladeni_031.html
+  - ladeni_032.html
+  - ladeni_033.html
+  - ladeni_034.html
+  - ladeni_035.html
+  - ladeni_036.html
+  - ladeni_037.html
+  - ladeni_038.html
+  - ladeni_039.html
+  - ladeni_040.html
+  - ladeni_041.html
+  - ladeni_042.html
+  - ladeni_043.html
+  - ladeni_044.html
+  - ladeni_045.html
+  - ladeni_046.html
+  - ladeni_047.html
+  - ladeni_048.html
+  - ladeni_049.html
+  - ladeni_050.html
+  - ladeni_051.html
+  - ladeni_052.html
+  - ladeni_053.html
+  - ladeni_054.html
+  - ladeni_055.html
+  - ladeni_056.html
+  - ladeni_057.html
+  - ladeni_058.html
+  - ladeni_059.html
+  - ladeni_060.html
+  - ladeni_061.html
+  - ladeni_062.html
+  - ladeni_063.html
+  - ladeni_064.html
+  - ladeni_065.html
+  - ladeni_066.html
+  - ladeni_067.html
+  - ladeni_068.html
+  - ladeni_069.html
+  - ladeni_070.html
+  - ladeni_071.html
+  - ladeni_072.html
+  - ladeni_073.html
+  - ladeni_074.html
+  - ladeni_075.html
+  - ladeni_076.html
+tocBase:
+  - id: section-1
+    children: []
+    isSection: true
+static:
+  - style
+  - scripts
+  - title
+  - fonts
+  - resources
+  - template-images
+  - favicon.png
+---

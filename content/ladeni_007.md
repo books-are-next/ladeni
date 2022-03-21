@@ -1,0 +1,5 @@
+---
+contentType: prose
+---
+
+DO USÍNÁNÍ…
