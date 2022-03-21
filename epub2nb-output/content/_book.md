@@ -5,20 +5,16 @@ contentType: prose
 languageCode: cs
 meta:
   languageCode: cs
-  contentType: prose
+  contentType: poetry
   title: Ladění
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: František Halas
   publisher: Městská knihovna v Praze
   modified: '2021-10-04T09:05:37.248Z'
   publisherShort: mkp
-  edition: beletrie
+  edition: ''
 readingOrder:
-  - ladeni_001.html
   - ladeni_002.html
-  - ladeni_003.html
-  - ladeni_004.html
-  - ladeni_005.html
   - ladeni_006.html
   - ladeni_007.html
   - ladeni_008.html
@@ -89,10 +85,151 @@ readingOrder:
   - ladeni_073.html
   - ladeni_074.html
   - ladeni_075.html
-  - ladeni_076.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: ladeni_006.html
+        title: Slova
+      - link: ladeni_007.html
+        title: DO USÍNÁNÍ…
+      - link: ladeni_008.html
+        title: Ladění
+      - link: ladeni_009.html
+        title: Poučení otcovské
+      - link: ladeni_010.html
+        title: Poučení synovské
+      - link: ladeni_011.html
+        title: Před usnutím I
+      - link: ladeni_012.html
+        title: Před usnutím II
+      - link: ladeni_013.html
+        title: Před usnutím III
+      - link: ladeni_014.html
+        title: Hádanka první
+      - link: ladeni_015.html
+        title: Hádanka druhá
+      - link: ladeni_016.html
+        title: "Hádanka třetí s\_rozřešením"
+      - link: ladeni_017.html
+        title: Velikonoční
+      - link: ladeni_018.html
+        title: Stínohry
+      - link: ladeni_019.html
+        title: Písnička
+      - link: ladeni_020.html
+        title: Mlýnek
+      - link: ladeni_021.html
+        title: Jak to kdo vidí
+      - link: ladeni_022.html
+        title: Proč
+      - link: ladeni_023.html
+        title: Báchorka
+      - link: ladeni_024.html
+        title: Povídačka
+      - link: ladeni_025.html
+        title: Domeček
+      - link: ladeni_026.html
+        title: "Jak přišla hrdlička k\_pásce"
+      - link: ladeni_027.html
+        title: František
+      - link: ladeni_028.html
+        title: HOŘKÁ…
+      - link: ladeni_029.html
+        title: Není jména
+      - link: ladeni_030.html
+        title: "Déšť v\_dubnu"
+      - link: ladeni_031.html
+        title: "Déšť v\_listopadu"
+      - link: ladeni_032.html
+        title: |
+          Svítáníčko
+      - link: ladeni_033.html
+        title: Loutna
+      - link: ladeni_034.html
+        title: Střídání
+      - link: ladeni_035.html
+        title: Hořká
+      - link: ladeni_036.html
+        title: Nic víc
+      - link: ladeni_037.html
+        title: Loučení
+      - link: ladeni_038.html
+        title: Přání
+      - link: ladeni_039.html
+        title: Ještě teď
+      - link: ladeni_040.html
+        title: Jen tak
+      - link: ladeni_041.html
+        title: PSÍ VÍNO
+      - link: ladeni_042.html
+        title: Psí víno
+      - link: ladeni_043.html
+        title: Básník
+      - link: ladeni_044.html
+        title: Sláva slova
+      - link: ladeni_045.html
+        title: Radosti…
+      - link: ladeni_046.html
+        title: Hledání
+      - link: ladeni_047.html
+        title: Ráno
+      - link: ladeni_048.html
+        title: Pod Zvičinou
+      - link: ladeni_049.html
+        title: Chudáci
+      - link: ladeni_050.html
+        title: Vinice
+      - link: ladeni_051.html
+        title: STISKY
+      - link: ladeni_052.html
+        title: Dnes zrovna tak
+      - link: ladeni_053.html
+        title: Vypravěč
+      - link: ladeni_054.html
+        title: Karlu Tomanovi
+      - link: ladeni_055.html
+        title: Pro Antonína Procházku
+      - link: ladeni_056.html
+        title: Přes paletu
+      - link: ladeni_057.html
+        title: Petru Bezručovi
+      - link: ladeni_058.html
+        title: Krysař
+      - link: ladeni_059.html
+        title: ZA HROB
+      - link: ladeni_060.html
+        title: Smrt Jiřího Mahena
+      - link: ladeni_061.html
+        title: Za Jiřím Ortenem
+      - link: ladeni_062.html
+        title: Na hrob Hanuše Jelínka
+      - link: ladeni_063.html
+        title: In memoriam
+      - link: ladeni_064.html
+        title: Bedřich Smetana
+      - link: ladeni_065.html
+        title: Variace na nerudovské téma
+      - link: ladeni_066.html
+        title: "Otec a\_syn"
+      - link: ladeni_067.html
+        title: Za básníkem
+      - link: ladeni_068.html
+        title: Opuštěná paleta
+      - link: ladeni_069.html
+        title: Přípravce soudů
+      - link: ladeni_070.html
+        title: F. X. Š.
+      - link: ladeni_071.html
+        title: HREJME DÁLE
+      - link: ladeni_072.html
+        title: Hrejme dále
+      - link: ladeni_073.html
+        title: Památce K. H. M.
+      - link: ladeni_074.html
+        title: Březen 1939
+      - link: ladeni_075.html
+        title: Prosba
     isSection: true
     listType: plain
 static:

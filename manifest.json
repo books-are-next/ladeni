@@ -1,39 +1,19 @@
 {
   "author": "František Halas",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "halas-ladeni-39082af",
+  "contenttype": "poetry",
+  "edition": "",
+  "identifier": "halas-ladeni-1240c3f",
   "languagecode": "cs",
   "modified": "2021-10-04T09:05:37.248Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Ladění",
-  "revision": "39082af",
+  "revision": "1240c3f",
   "generatedAt": {
-    "date": "Mon Mar 21 2022 18:29:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647887368317
+    "date": "Mon Mar 21 2022 18:39:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647887959296
   },
   "documents": [
-    {
-      "title": "Ladění",
-      "file": "ladeni_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "ladeni_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Ladění",
       "file": "ladeni_002.html",
@@ -41,68 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "ladeni_001.html",
-      "next": "ladeni_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Ladění",
-      "file": "ladeni_003.html",
-      "words": 4,
-      "chars": 30,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "ladeni_002.html",
-      "next": "ladeni_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Ladění",
-      "file": "ladeni_004.html",
-      "words": 79,
-      "chars": 536,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "ladeni_003.html",
-      "next": "ladeni_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Ladění",
-      "file": "ladeni_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 4,
-      "prev": "ladeni_004.html",
+      "order": 0,
+      "prev": null,
       "next": "ladeni_006.html",
       "toc": [
         {
@@ -121,8 +41,8 @@
       "chars": 435,
       "ideas": 17,
       "role": "chapter",
-      "order": 5,
-      "prev": "ladeni_005.html",
+      "order": 1,
+      "prev": "ladeni_002.html",
       "next": "ladeni_007.html",
       "toc": [
         {
@@ -141,7 +61,7 @@
       "chars": 11,
       "ideas": 1,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "ladeni_006.html",
       "next": "ladeni_008.html",
       "toc": [
@@ -161,7 +81,7 @@
       "chars": 544,
       "ideas": 17,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "ladeni_007.html",
       "next": "ladeni_009.html",
       "toc": [
@@ -181,7 +101,7 @@
       "chars": 247,
       "ideas": 12,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "ladeni_008.html",
       "next": "ladeni_010.html",
       "toc": [
@@ -201,7 +121,7 @@
       "chars": 16,
       "ideas": 1,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "ladeni_009.html",
       "next": "ladeni_011.html",
       "toc": [
@@ -221,7 +141,7 @@
       "chars": 231,
       "ideas": 10,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "ladeni_010.html",
       "next": "ladeni_012.html",
       "toc": [
@@ -241,7 +161,7 @@
       "chars": 265,
       "ideas": 9,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "ladeni_011.html",
       "next": "ladeni_013.html",
       "toc": [
@@ -261,7 +181,7 @@
       "chars": 16,
       "ideas": 1,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "ladeni_012.html",
       "next": "ladeni_014.html",
       "toc": [
@@ -281,7 +201,7 @@
       "chars": 191,
       "ideas": 9,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "ladeni_013.html",
       "next": "ladeni_015.html",
       "toc": [
@@ -301,7 +221,7 @@
       "chars": 223,
       "ideas": 9,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "ladeni_014.html",
       "next": "ladeni_016.html",
       "toc": [
@@ -321,7 +241,7 @@
       "chars": 223,
       "ideas": 10,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "ladeni_015.html",
       "next": "ladeni_017.html",
       "toc": [
@@ -341,7 +261,7 @@
       "chars": 301,
       "ideas": 18,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "ladeni_016.html",
       "next": "ladeni_018.html",
       "toc": [
@@ -361,7 +281,7 @@
       "chars": 310,
       "ideas": 17,
       "role": "chapter",
-      "order": 17,
+      "order": 13,
       "prev": "ladeni_017.html",
       "next": "ladeni_019.html",
       "toc": [
@@ -381,7 +301,7 @@
       "chars": 373,
       "ideas": 17,
       "role": "chapter",
-      "order": 18,
+      "order": 14,
       "prev": "ladeni_018.html",
       "next": "ladeni_020.html",
       "toc": [
@@ -401,7 +321,7 @@
       "chars": 299,
       "ideas": 13,
       "role": "chapter",
-      "order": 19,
+      "order": 15,
       "prev": "ladeni_019.html",
       "next": "ladeni_021.html",
       "toc": [
@@ -421,7 +341,7 @@
       "chars": 223,
       "ideas": 9,
       "role": "chapter",
-      "order": 20,
+      "order": 16,
       "prev": "ladeni_020.html",
       "next": "ladeni_022.html",
       "toc": [
@@ -441,7 +361,7 @@
       "chars": 154,
       "ideas": 6,
       "role": "chapter",
-      "order": 21,
+      "order": 17,
       "prev": "ladeni_021.html",
       "next": "ladeni_023.html",
       "toc": [
@@ -461,7 +381,7 @@
       "chars": 244,
       "ideas": 9,
       "role": "chapter",
-      "order": 22,
+      "order": 18,
       "prev": "ladeni_022.html",
       "next": "ladeni_024.html",
       "toc": [
@@ -481,7 +401,7 @@
       "chars": 283,
       "ideas": 13,
       "role": "chapter",
-      "order": 23,
+      "order": 19,
       "prev": "ladeni_023.html",
       "next": "ladeni_025.html",
       "toc": [
@@ -501,7 +421,7 @@
       "chars": 347,
       "ideas": 16,
       "role": "chapter",
-      "order": 24,
+      "order": 20,
       "prev": "ladeni_024.html",
       "next": "ladeni_026.html",
       "toc": [
@@ -521,7 +441,7 @@
       "chars": 838,
       "ideas": 33,
       "role": "chapter",
-      "order": 25,
+      "order": 21,
       "prev": "ladeni_025.html",
       "next": "ladeni_027.html",
       "toc": [
@@ -541,7 +461,7 @@
       "chars": 388,
       "ideas": 19,
       "role": "chapter",
-      "order": 26,
+      "order": 22,
       "prev": "ladeni_026.html",
       "next": "ladeni_028.html",
       "toc": [
@@ -561,7 +481,7 @@
       "chars": 6,
       "ideas": 1,
       "role": "chapter",
-      "order": 27,
+      "order": 23,
       "prev": "ladeni_027.html",
       "next": "ladeni_029.html",
       "toc": [
@@ -581,7 +501,7 @@
       "chars": 440,
       "ideas": 21,
       "role": "chapter",
-      "order": 28,
+      "order": 24,
       "prev": "ladeni_028.html",
       "next": "ladeni_030.html",
       "toc": [
@@ -601,7 +521,7 @@
       "chars": 540,
       "ideas": 22,
       "role": "chapter",
-      "order": 29,
+      "order": 25,
       "prev": "ladeni_029.html",
       "next": "ladeni_031.html",
       "toc": [
@@ -621,7 +541,7 @@
       "chars": 217,
       "ideas": 12,
       "role": "chapter",
-      "order": 30,
+      "order": 26,
       "prev": "ladeni_030.html",
       "next": "ladeni_032.html",
       "toc": [
@@ -641,7 +561,7 @@
       "chars": 328,
       "ideas": 13,
       "role": "chapter",
-      "order": 31,
+      "order": 27,
       "prev": "ladeni_031.html",
       "next": "ladeni_033.html",
       "toc": [
@@ -661,7 +581,7 @@
       "chars": 234,
       "ideas": 11,
       "role": "chapter",
-      "order": 32,
+      "order": 28,
       "prev": "ladeni_032.html",
       "next": "ladeni_034.html",
       "toc": [
@@ -681,7 +601,7 @@
       "chars": 323,
       "ideas": 15,
       "role": "chapter",
-      "order": 33,
+      "order": 29,
       "prev": "ladeni_033.html",
       "next": "ladeni_035.html",
       "toc": [
@@ -701,7 +621,7 @@
       "chars": 200,
       "ideas": 9,
       "role": "chapter",
-      "order": 34,
+      "order": 30,
       "prev": "ladeni_034.html",
       "next": "ladeni_036.html",
       "toc": [
@@ -721,7 +641,7 @@
       "chars": 476,
       "ideas": 26,
       "role": "chapter",
-      "order": 35,
+      "order": 31,
       "prev": "ladeni_035.html",
       "next": "ladeni_037.html",
       "toc": [
@@ -741,7 +661,7 @@
       "chars": 552,
       "ideas": 25,
       "role": "chapter",
-      "order": 36,
+      "order": 32,
       "prev": "ladeni_036.html",
       "next": "ladeni_038.html",
       "toc": [
@@ -761,7 +681,7 @@
       "chars": 179,
       "ideas": 9,
       "role": "chapter",
-      "order": 37,
+      "order": 33,
       "prev": "ladeni_037.html",
       "next": "ladeni_039.html",
       "toc": [
@@ -781,7 +701,7 @@
       "chars": 334,
       "ideas": 15,
       "role": "chapter",
-      "order": 38,
+      "order": 34,
       "prev": "ladeni_038.html",
       "next": "ladeni_040.html",
       "toc": [
@@ -801,7 +721,7 @@
       "chars": 293,
       "ideas": 13,
       "role": "chapter",
-      "order": 39,
+      "order": 35,
       "prev": "ladeni_039.html",
       "next": "ladeni_041.html",
       "toc": [
@@ -821,7 +741,7 @@
       "chars": 8,
       "ideas": 1,
       "role": "chapter",
-      "order": 40,
+      "order": 36,
       "prev": "ladeni_040.html",
       "next": "ladeni_042.html",
       "toc": [
@@ -841,7 +761,7 @@
       "chars": 356,
       "ideas": 16,
       "role": "chapter",
-      "order": 41,
+      "order": 37,
       "prev": "ladeni_041.html",
       "next": "ladeni_043.html",
       "toc": [
@@ -861,7 +781,7 @@
       "chars": 989,
       "ideas": 37,
       "role": "chapter",
-      "order": 42,
+      "order": 38,
       "prev": "ladeni_042.html",
       "next": "ladeni_044.html",
       "toc": [
@@ -881,7 +801,7 @@
       "chars": 640,
       "ideas": 21,
       "role": "chapter",
-      "order": 43,
+      "order": 39,
       "prev": "ladeni_043.html",
       "next": "ladeni_045.html",
       "toc": [
@@ -901,7 +821,7 @@
       "chars": 606,
       "ideas": 22,
       "role": "chapter",
-      "order": 44,
+      "order": 40,
       "prev": "ladeni_044.html",
       "next": "ladeni_046.html",
       "toc": [
@@ -921,7 +841,7 @@
       "chars": 659,
       "ideas": 26,
       "role": "chapter",
-      "order": 45,
+      "order": 41,
       "prev": "ladeni_045.html",
       "next": "ladeni_047.html",
       "toc": [
@@ -941,7 +861,7 @@
       "chars": 307,
       "ideas": 13,
       "role": "chapter",
-      "order": 46,
+      "order": 42,
       "prev": "ladeni_046.html",
       "next": "ladeni_048.html",
       "toc": [
@@ -961,7 +881,7 @@
       "chars": 487,
       "ideas": 17,
       "role": "chapter",
-      "order": 47,
+      "order": 43,
       "prev": "ladeni_047.html",
       "next": "ladeni_049.html",
       "toc": [
@@ -981,7 +901,7 @@
       "chars": 690,
       "ideas": 29,
       "role": "chapter",
-      "order": 48,
+      "order": 44,
       "prev": "ladeni_048.html",
       "next": "ladeni_050.html",
       "toc": [
@@ -1001,7 +921,7 @@
       "chars": 515,
       "ideas": 17,
       "role": "chapter",
-      "order": 49,
+      "order": 45,
       "prev": "ladeni_049.html",
       "next": "ladeni_051.html",
       "toc": [
@@ -1021,7 +941,7 @@
       "chars": 6,
       "ideas": 1,
       "role": "chapter",
-      "order": 50,
+      "order": 46,
       "prev": "ladeni_050.html",
       "next": "ladeni_052.html",
       "toc": [
@@ -1041,7 +961,7 @@
       "chars": 604,
       "ideas": 22,
       "role": "chapter",
-      "order": 51,
+      "order": 47,
       "prev": "ladeni_051.html",
       "next": "ladeni_053.html",
       "toc": [
@@ -1061,7 +981,7 @@
       "chars": 910,
       "ideas": 32,
       "role": "chapter",
-      "order": 52,
+      "order": 48,
       "prev": "ladeni_052.html",
       "next": "ladeni_054.html",
       "toc": [
@@ -1081,7 +1001,7 @@
       "chars": 359,
       "ideas": 18,
       "role": "chapter",
-      "order": 53,
+      "order": 49,
       "prev": "ladeni_053.html",
       "next": "ladeni_055.html",
       "toc": [
@@ -1101,7 +1021,7 @@
       "chars": 670,
       "ideas": 30,
       "role": "chapter",
-      "order": 54,
+      "order": 50,
       "prev": "ladeni_054.html",
       "next": "ladeni_056.html",
       "toc": [
@@ -1121,7 +1041,7 @@
       "chars": 689,
       "ideas": 23,
       "role": "chapter",
-      "order": 55,
+      "order": 51,
       "prev": "ladeni_055.html",
       "next": "ladeni_057.html",
       "toc": [
@@ -1141,7 +1061,7 @@
       "chars": 425,
       "ideas": 13,
       "role": "chapter",
-      "order": 56,
+      "order": 52,
       "prev": "ladeni_056.html",
       "next": "ladeni_058.html",
       "toc": [
@@ -1161,7 +1081,7 @@
       "chars": 326,
       "ideas": 12,
       "role": "chapter",
-      "order": 57,
+      "order": 53,
       "prev": "ladeni_057.html",
       "next": "ladeni_059.html",
       "toc": [
@@ -1181,7 +1101,7 @@
       "chars": 7,
       "ideas": 1,
       "role": "chapter",
-      "order": 58,
+      "order": 54,
       "prev": "ladeni_058.html",
       "next": "ladeni_060.html",
       "toc": [
@@ -1201,7 +1121,7 @@
       "chars": 564,
       "ideas": 20,
       "role": "chapter",
-      "order": 59,
+      "order": 55,
       "prev": "ladeni_059.html",
       "next": "ladeni_061.html",
       "toc": [
@@ -1221,7 +1141,7 @@
       "chars": 1434,
       "ideas": 76,
       "role": "chapter",
-      "order": 60,
+      "order": 56,
       "prev": "ladeni_060.html",
       "next": "ladeni_062.html",
       "toc": [
@@ -1241,7 +1161,7 @@
       "chars": 565,
       "ideas": 21,
       "role": "chapter",
-      "order": 61,
+      "order": 57,
       "prev": "ladeni_061.html",
       "next": "ladeni_063.html",
       "toc": [
@@ -1261,7 +1181,7 @@
       "chars": 338,
       "ideas": 13,
       "role": "chapter",
-      "order": 62,
+      "order": 58,
       "prev": "ladeni_062.html",
       "next": "ladeni_064.html",
       "toc": [
@@ -1281,7 +1201,7 @@
       "chars": 879,
       "ideas": 34,
       "role": "chapter",
-      "order": 63,
+      "order": 59,
       "prev": "ladeni_063.html",
       "next": "ladeni_065.html",
       "toc": [
@@ -1301,7 +1221,7 @@
       "chars": 26,
       "ideas": 1,
       "role": "chapter",
-      "order": 64,
+      "order": 60,
       "prev": "ladeni_064.html",
       "next": "ladeni_066.html",
       "toc": [
@@ -1321,7 +1241,7 @@
       "chars": 349,
       "ideas": 14,
       "role": "chapter",
-      "order": 65,
+      "order": 61,
       "prev": "ladeni_065.html",
       "next": "ladeni_067.html",
       "toc": [
@@ -1341,7 +1261,7 @@
       "chars": 795,
       "ideas": 30,
       "role": "chapter",
-      "order": 66,
+      "order": 62,
       "prev": "ladeni_066.html",
       "next": "ladeni_068.html",
       "toc": [
@@ -1361,7 +1281,7 @@
       "chars": 1100,
       "ideas": 40,
       "role": "chapter",
-      "order": 67,
+      "order": 63,
       "prev": "ladeni_067.html",
       "next": "ladeni_069.html",
       "toc": [
@@ -1381,7 +1301,7 @@
       "chars": 1562,
       "ideas": 51,
       "role": "chapter",
-      "order": 68,
+      "order": 64,
       "prev": "ladeni_068.html",
       "next": "ladeni_070.html",
       "toc": [
@@ -1401,7 +1321,7 @@
       "chars": 215,
       "ideas": 7,
       "role": "chapter",
-      "order": 69,
+      "order": 65,
       "prev": "ladeni_069.html",
       "next": "ladeni_071.html",
       "toc": [
@@ -1421,7 +1341,7 @@
       "chars": 11,
       "ideas": 1,
       "role": "chapter",
-      "order": 70,
+      "order": 66,
       "prev": "ladeni_070.html",
       "next": "ladeni_072.html",
       "toc": [
@@ -1441,7 +1361,7 @@
       "chars": 702,
       "ideas": 30,
       "role": "chapter",
-      "order": 71,
+      "order": 67,
       "prev": "ladeni_071.html",
       "next": "ladeni_073.html",
       "toc": [
@@ -1461,7 +1381,7 @@
       "chars": 411,
       "ideas": 13,
       "role": "chapter",
-      "order": 72,
+      "order": 68,
       "prev": "ladeni_072.html",
       "next": "ladeni_074.html",
       "toc": [
@@ -1481,7 +1401,7 @@
       "chars": 299,
       "ideas": 13,
       "role": "chapter",
-      "order": 73,
+      "order": 69,
       "prev": "ladeni_073.html",
       "next": "ladeni_075.html",
       "toc": [
@@ -1501,9 +1421,9 @@
       "chars": 914,
       "ideas": 37,
       "role": "chapter",
-      "order": 74,
+      "order": 70,
       "prev": "ladeni_074.html",
-      "next": "ladeni_076.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -1515,20 +1435,20 @@
       ]
     },
     {
-      "title": "Ladění",
-      "file": "ladeni_076.html",
-      "words": 47,
-      "chars": 325,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 75,
+      "title": "Tiráž • Ladění",
+      "file": "colophon.html",
+      "words": 134,
+      "chars": 923,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
       "prev": "ladeni_075.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -1537,14 +1457,14 @@
   ],
   "totals": {
     "all": {
-      "words": 5661,
-      "chars": 30629,
+      "words": 5663,
+      "chars": 30648,
       "ideas": 1237
     },
     "chapters": {
-      "words": 5655,
-      "chars": 30592,
-      "ideas": 1232
+      "words": 5525,
+      "chars": 29701,
+      "ideas": 1210
     }
   }
 }
