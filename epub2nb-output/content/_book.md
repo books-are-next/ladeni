@@ -4,12 +4,13 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Ladění
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: František Halas
   publisher: Městská knihovna v Praze
   modified: '2021-10-04T09:05:37.248Z'
-  languageCode: cs
   publisherShort: mkp
   edition: beletrie
 readingOrder:
@@ -93,6 +94,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

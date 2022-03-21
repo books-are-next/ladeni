@@ -1,66 +1,65 @@
 ---
+title: Básník
 contentType: prose
 ---
 
-Básník
-
-Nejedno noční z mžených jmen  
+_Nejedno noční z mžených jmen  
 i kopřivám dát se osmělil  
 ač víru měl co byla bez kolen  
-přec dušoval se v prsa bil
+přec dušoval se v prsa bil_
 
   
 
-Odhrnuv řeč na nahé kosti  
+_Odhrnuv řeč na nahé kosti  
 živ hryzavým byl steskem tím  
 mít tolik jemné citlivosti  
-a otočit se s leknutím
+a otočit se s leknutím_
 
   
 
-když na stín by mu někdo stoup  
+_když na stín by mu někdo stoup  
 a trápil věcí nitra malá  
 ba řeřavěl je v takou hloub  
-až sama sebe zrazovala
+až sama sebe zrazovala_
 
   
 
-Odvíjel z klubka hebkých patek  
+_Odvíjel z klubka hebkých patek  
 co Pošetilost má ta spanilá  
 nenadálost ba i sám zmatek  
-že báseň na to sotva stačila
+že báseň na to sotva stačila_
 
   
 
-Káčírky zkusmé vrhal po hladině  
+_Káčírky zkusmé vrhal po hladině  
 své mateřštiny punkvy záludné  
 mizely vírem v hlubné proláklině  
-kde tajemství zrá nemluvné
+kde tajemství zrá nemluvné_
 
   
 
-Též abeceda věčně trucovala  
+_Též abeceda věčně trucovala  
 když větu chtěl z ní spíchnouti  
 a slova stranou zaražena stála  
-jak bez halíře dítě na pouti
+jak bez halíře dítě na pouti_
 
   
 
-Nejraděj měl náměsíčná zpola  
+_Nejraděj měl náměsíčná zpola  
 slovíčka slůvka spánkem zlacená  
 na která když si veršík zvolá  
-jsou hlasitostí ztracena
+jsou hlasitostí ztracena_
 
   
 
-Sun mrtvých lun mu udělal  
+_Sun mrtvých lun mu udělal  
 a ticho v rose ztekutělé  
 V té očkovat se báseň jal  
-tím roubem žalu za zemřelé
+tím roubem žalu za zemřelé_
 
   
 
-Když maličká v něm duše byla  
+_Když maličká v něm duše byla  
 rád chlácholil se Nu řeknou si  
 V křovisku uschlém hnízda zbyla  
-a pták tam zpíval jakousi
+a pták tam zpíval jakousi_

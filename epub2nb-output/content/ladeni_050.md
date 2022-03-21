@@ -1,31 +1,30 @@
 ---
+title: Vinice
 contentType: prose
 ---
 
-Vinice
-
-Ten zástěrkář už vtrh i do vinice  
+_Ten zástěrkář už vtrh i do vinice  
 jako by jinde neměl toho dost  
 choulí se réva v závoj ruměnice  
-ten nestyda jí sahá na nahost
+ten nestyda jí sahá na nahost_
 
   
 
-V odkrytém listí blýská lýtko ženy  
+_V odkrytém listí blýská lýtko ženy  
 a tepna října krvaví náručí  
 trhaný hrozen všecek rozdurděný  
-jak dětský ret svá zrnka napučí
+jak dětský ret svá zrnka napučí_
 
   
 
-Naposled slunce stráň chce pomazliti  
+_Naposled slunce stráň chce pomazliti  
 hřbitovní něžnost je to bezmála  
 troufá si věrnost listím zašustiti  
-betlemská sláma stejně šeptala
+betlemská sláma stejně šeptala_
 
   
 
-Vinice zpustla bdí tam smělec bdělý  
+_Vinice zpustla bdí tam smělec bdělý  
 kostnatý čahoun strach jde z chlapíka  
 Bodlák Hodovník zkajícnělý  
-však furiantsky si připích stehlíka
+však furiantsky si připích stehlíka_

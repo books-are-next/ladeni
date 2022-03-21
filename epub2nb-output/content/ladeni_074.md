@@ -1,24 +1,23 @@
 ---
+title: Březen 1939
 contentType: prose
 ---
 
-Březen 1939
-
-To obludné to úskok samý  
+_To obludné to úskok samý  
 co drápy do nás zaseklo  
 co rozjizvilo lány v jámy  
-a do země nám nateklo
+a do země nám nateklo_
 
   
 
-tak rozvzteklilo samo nebe  
+_tak rozvzteklilo samo nebe  
 svou zvůli lupem žijící  
 že nebe hmátlo vedle sebe  
-po krupobitné palici
+po krupobitné palici_
 
   
 
-To obludné to úskok samý  
+_To obludné to úskok samý  
 zda rozumělo kletbě té  
 když z dlouhé chvíle nad kostkami  
-plivalo na šat Rozbité
+plivalo na šat Rozbité_

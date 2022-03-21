@@ -1,21 +1,20 @@
 ---
+title: Před usnutím I
 contentType: prose
 ---
 
-Před usnutím I
-
-Ty nevíš táto to ti bylo k smíchu  
+_Ty nevíš táto to ti bylo k smíchu  
 já viděl kosa na trávníku  
 zavazovat si tkaničku  
 U botky se mu rozvázala  
 tahal ji až se přetrhala  
-a víš že ji ten hlupák sněd
+a víš že ji ten hlupák sněd_
 
   
 
-Kdepak si koupí novou teď
+_Kdepak si koupí novou teď_
 
   
 
-Žížala Co ty víš  
-Počkej však ráno uvidíš
+_Žížala Co ty víš  
+Počkej však ráno uvidíš_

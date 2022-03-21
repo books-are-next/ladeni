@@ -1,17 +1,16 @@
 ---
+title: Proč
 contentType: prose
 ---
 
-Proč
-
-Vidíš ten šípek Růženka pod ním spí  
-Kdo není hodný ji ale nevidí
+_Vidíš ten šípek Růženka pod ním spí  
+Kdo není hodný ji ale nevidí_
 
   
 
-A proč nebyl šípek hodný
+_A proč nebyl šípek hodný_
 
   
 
-No podívej se jistě si s nožem hrál  
-až do krve se nešika pořezal
+_No podívej se jistě si s nožem hrál  
+až do krve se nešika pořezal_

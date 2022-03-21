@@ -1,66 +1,65 @@
 ---
+title: Prosba
 contentType: prose
 ---
 
-Prosba
-
-Ne Pane nejsem hoden přízně Tvé  
+_Ne Pane nejsem hoden přízně Tvé  
 já po léta žil jak ta zvěř  
 a Tvoje rány ohnivé  
-mně nesvítily ale věř
+mně nesvítily ale věř_
 
   
 
-že nacházím-li jméno Tvé  
+_že nacházím-li jméno Tvé  
 pak ne ze strachu před trestem  
 já prosím vroucně za jiné  
-Jen neopouštěj tuto zem
+Jen neopouštěj tuto zem_
 
   
 
-Ta země krev Tvou pila vždy  
+_Ta země krev Tvou pila vždy  
 a mečem jiné nutila  
 pít z dlaní ztěžklých od vraždy  
-však také od díla
+však také od díla_
 
   
 
-Od díla Pane slávy Tvé  
+_Od díla Pane slávy Tvé  
 snad lid ji po svém vykládal  
 ne netresci ty nevinné  
-ta srdce prostná chtěla dál
+ta srdce prostná chtěla dál_
 
   
 
-Až k Boží říši mířila  
+_Až k Boží říši mířila  
 ta měla ležet v klíně Čech  
 Ty nedej aby přesila  
-nám zakládala jinou v zdech
+nám zakládala jinou v zdech_
 
   
 
-v zdech v ohradě Tvé zbrojnice  
+_v zdech v ohradě Tvé zbrojnice  
 za niž se mřelo s úsměvem  
 pro příkaz Tvůj snad nejvíce  
-s milostí popatř na tu zem
+s milostí popatř na tu zem_
 
   
 
-Je bezčasý Tvůj vládčí čas  
+_Je bezčasý Tvůj vládčí čas  
 dej prožít jí do sebe jít  
 A rci jí I když zklamalas  
-chci v milosrdenství tě vzít
+chci v milosrdenství tě vzít_
 
   
 
-To vše nám vnukni Pane  
+_To vše nám vnukni Pane  
 nám bloudícím dnes ve snu zlém  
 a srdce máš-li rozhněvané  
-ne hanbou trestej železem
+ne hanbou trestej železem_
 
   
 
-Ne Pane nejsem hoden lásky Tvé  
+_Ne Pane nejsem hoden lásky Tvé  
 za zpokornělý prosím lid  
 Dej výzbroj zemi truchlivé  
-v posledním boji najít klid
+v posledním boji najít klid_

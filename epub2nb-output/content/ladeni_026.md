@@ -1,68 +1,67 @@
 ---
+title: "Jak přišla hrdlička k\_pásce"
 contentType: prose
 ---
 
-Jak přišla hrdlička k pásce
-
-Maria Panna v samé práci  
+_Maria Panna v samé práci  
 a Ježíšek jí nechce spát  
 Poklízet vařit zašívat si  
-a ještě k tomu kolíbat
+a ještě k tomu kolíbat_
 
   
 
-Hrdlička lítá samá legrace  
-a nechce se jí mršce do práce
+_Hrdlička lítá samá legrace  
+a nechce se jí mršce do práce_
 
   
 
-Durdí se Panna Co se máš co smát  
-Ježíška budeš kolíbat
+_Durdí se Panna Co se máš co smát  
+Ježíška budeš kolíbat_
 
   
 
-Kolíbala hrdlička  
+_Kolíbala hrdlička  
 kolíbala Ježíška  
 sotva zavřel očička  
-ulítla mu hrdlička
+ulítla mu hrdlička_
 
   
 
-Kolíbka se zastavila Ježíšek ten pláče zas  
-mlíko s plotny utíkalo k obědu byl právě čas
+_Kolíbka se zastavila Ježíšek ten pláče zas  
+mlíko s plotny utíkalo k obědu byl právě čas_
 
   
 
-Ty lajdačko hned pojď sem  
-počkej my tě přivážem
+_Ty lajdačko hned pojď sem  
+počkej my tě přivážem_
 
   
 
-Vzala Panna sametku  
+_Vzala Panna sametku  
 Ty ty poběhlice  
 uvázala hrdličku  
-rovnou ke kolíbce
+rovnou ke kolíbce_
 
   
 
-Oběd už je uvařený a Ježíšek spinká dál  
-neposeda nesměje se pásek se jí zařezal
+_Oběd už je uvařený a Ježíšek spinká dál  
+neposeda nesměje se pásek se jí zařezal_
 
   
 
-Prosím prosím svatá Panno dej mi trošku zalítat  
-já už budu tuze hodná přijdu zase kolíbat
+_Prosím prosím svatá Panno dej mi trošku zalítat  
+já už budu tuze hodná přijdu zase kolíbat_
 
   
 
-Ježíškovi do kašičky  
+_Ježíškovi do kašičky  
 cukrů cukrů cukrů dám  
 cukrů cukrů do hubičky  
-řekni Už se nehněvám
+řekni Už se nehněvám_
 
   
 
-Panna v smíchu klopí řasy  
+_Panna v smíchu klopí řasy  
 Kš Kš Leť si pohane  
 Za trest však na věčné časy  
-pásek ti už zůstane
+pásek ti už zůstane_

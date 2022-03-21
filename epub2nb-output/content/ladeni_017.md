@@ -1,30 +1,29 @@
 ---
+title: Velikonoční
 contentType: prose
 ---
 
-Velikonoční
-
 _Josefu Zejdovi_
 
-Zakvokala kvočna  
+_Zakvokala kvočna  
 kvokna ukvokaná  
 zakdákaly slepice  
 zlobily se velice  
-na kohouta
+na kohouta_
 
   
 
-Proč se zlobí já už vím  
+_Proč se zlobí já už vím  
 teď já tomu rozumím  
 Zlobí se ty slepice  
 že on snáší kraslice  
 kvočna jenom vejce bílá  
-Bodejť by se nezlobila
+Bodejť by se nezlobila_
 
   
 
-Zakvokala kvočna  
+_Zakvokala kvočna  
 kvočna ukvokaná  
 zakdákaly slepice  
 zlobily se velice  
-na kohouta
+na kohouta_

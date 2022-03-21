@@ -1,31 +1,30 @@
 ---
+title: Písnička
 contentType: prose
 ---
 
-Písnička
-
-Had s korunkou a Meluzina  
+_Had s korunkou a Meluzina  
 v tom lese stříbrném  
 Sněhurku záblo ó ta zima  
-v tom lese stříbrném
+v tom lese stříbrném_
 
   
 
-Vzali jí míru na kožíšek  
+_Vzali jí míru na kožíšek  
 v tom lese stříbrném  
 a postavili domek z šišek  
-v tom lese stříbrném
+v tom lese stříbrném_
 
   
 
-Pan Měsíček se na to díval  
+_Pan Měsíček se na to díval  
 v tom lese stříbrném  
 a větrům měchy pozašíval  
-v tom lese stříbrném
+v tom lese stříbrném_
 
   
 
-Ach Sněhurka jen štěstím vzdychá  
+_Ach Sněhurka jen štěstím vzdychá  
 v tom lese stříbrném  
 a hromská zima honí bycha  
-v tom lese stříbrném
+v tom lese stříbrném_

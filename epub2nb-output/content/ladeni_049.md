@@ -1,53 +1,52 @@
 ---
+title: Chudáci
 contentType: prose
 ---
 
-Chudáci
-
 _Jarmile Urbánkové_
 
-Jak lucernička před knězem  
+_Jak lucernička před knězem  
 je první hvězda ranní  
 lucernička před knězem  
 když k pomazání za šírání  
 jde  
 a na obzoru úsvit leze nesměle  
-z truhlice závoj zemřelé
+z truhlice závoj zemřelé_
 
   
 
-Kolik jich leží bradou vzhůru  
+_Kolik jich leží bradou vzhůru  
 v krajině morem vytřené  
-tím zadkem moru vytřené
+tím zadkem moru vytřené_
 
   
 
-V červeni kardinálské  
+_V červeni kardinálské  
 jde věčně Rozesmátá  
-v červeni kardinálské
+v červeni kardinálské_
 
   
 
-Člověk dnes a zítra černá země  
+_Člověk dnes a zítra černá země  
 i ve smrti však chudák smůlu má  
 Nemůže říci Chlapci zahrajte mně  
-Ba je i rakev špatně změřená
+Ba je i rakev špatně změřená_
 
   
 
-Ale v Josafatu první místo jeho  
+_Ale v Josafatu první místo jeho  
 tam trampotný hřbet narovná  
 a vína světla nebeského  
-mu podá sama Královna
+mu podá sama Královna_
 
   
 
-Pokrme ptáků  
-z blátivé Lethe rumu už se nenapiješ
+_Pokrme ptáků  
+z blátivé Lethe rumu už se nenapiješ_
 
   
 
-Kde smrti je tvůj tvar  
+_Kde smrti je tvůj tvar  
 Had světa rozmáčknut je v prachu  
 Panno Maria már Panno Maria már  
-rač zbaviti nás strachu
+rač zbaviti nás strachu_

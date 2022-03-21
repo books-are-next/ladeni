@@ -1,16 +1,17 @@
 {
   "author": "František Halas",
+  "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "halas-ladeni-478356f",
+  "identifier": "halas-ladeni-39082af",
   "languagecode": "cs",
   "modified": "2021-10-04T09:05:37.248Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Ladění",
-  "revision": "478356f",
+  "revision": "39082af",
   "generatedAt": {
-    "date": "Mon Mar 21 2022 09:35:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647855348458
+    "date": "Mon Mar 21 2022 18:29:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647887368317
   },
   "documents": [
     {
@@ -114,7 +115,7 @@
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Slova • Ladění",
       "file": "ladeni_006.html",
       "words": 79,
       "chars": 435,
@@ -127,18 +128,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Slova",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "DO USÍNÁNÍ… • Ladění",
       "file": "ladeni_007.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
       "role": "chapter",
       "order": 6,
       "prev": "ladeni_006.html",
@@ -147,14 +148,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "DO USÍNÁNÍ…",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Ladění • Ladění",
       "file": "ladeni_008.html",
       "words": 107,
       "chars": 544,
@@ -167,14 +168,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ladění",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Poučení otcovské • Ladění",
       "file": "ladeni_009.html",
       "words": 46,
       "chars": 247,
@@ -187,18 +188,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Poučení otcovské",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Poučení synovské • Ladění",
       "file": "ladeni_010.html",
-      "words": 27,
-      "chars": 139,
-      "ideas": 5,
+      "words": 2,
+      "chars": 16,
+      "ideas": 1,
       "role": "chapter",
       "order": 9,
       "prev": "ladeni_009.html",
@@ -207,14 +208,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Poučení synovské",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Před usnutím I • Ladění",
       "file": "ladeni_011.html",
       "words": 49,
       "chars": 231,
@@ -227,14 +228,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Před usnutím I",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Před usnutím II • Ladění",
       "file": "ladeni_012.html",
       "words": 55,
       "chars": 265,
@@ -247,18 +248,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Před usnutím II",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Před usnutím III • Ladění",
       "file": "ladeni_013.html",
-      "words": 24,
-      "chars": 124,
-      "ideas": 5,
+      "words": 3,
+      "chars": 16,
+      "ideas": 1,
       "role": "chapter",
       "order": 12,
       "prev": "ladeni_012.html",
@@ -267,14 +268,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Před usnutím III",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Hádanka první • Ladění",
       "file": "ladeni_014.html",
       "words": 33,
       "chars": 191,
@@ -287,14 +288,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hádanka první",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Hádanka druhá • Ladění",
       "file": "ladeni_015.html",
       "words": 45,
       "chars": 223,
@@ -307,14 +308,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hádanka druhá",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Hádanka třetí s rozřešením • Ladění",
       "file": "ladeni_016.html",
       "words": 46,
       "chars": 223,
@@ -327,14 +328,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hádanka třetí s rozřešením",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Velikonoční • Ladění",
       "file": "ladeni_017.html",
       "words": 51,
       "chars": 301,
@@ -347,14 +348,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Velikonoční",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Stínohry • Ladění",
       "file": "ladeni_018.html",
       "words": 56,
       "chars": 310,
@@ -367,14 +368,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Stínohry",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Písnička • Ladění",
       "file": "ladeni_019.html",
       "words": 73,
       "chars": 373,
@@ -387,14 +388,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Písnička",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Mlýnek • Ladění",
       "file": "ladeni_020.html",
       "words": 62,
       "chars": 299,
@@ -407,14 +408,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Mlýnek",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Jak to kdo vidí • Ladění",
       "file": "ladeni_021.html",
       "words": 50,
       "chars": 223,
@@ -427,14 +428,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Jak to kdo vidí",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Proč • Ladění",
       "file": "ladeni_022.html",
       "words": 33,
       "chars": 154,
@@ -447,14 +448,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Proč",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Báchorka • Ladění",
       "file": "ladeni_023.html",
       "words": 47,
       "chars": 244,
@@ -467,14 +468,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Báchorka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Povídačka • Ladění",
       "file": "ladeni_024.html",
       "words": 56,
       "chars": 283,
@@ -487,14 +488,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Povídačka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Domeček • Ladění",
       "file": "ladeni_025.html",
       "words": 59,
       "chars": 347,
@@ -507,14 +508,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Domeček",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Jak přišla hrdlička k pásce • Ladění",
       "file": "ladeni_026.html",
       "words": 158,
       "chars": 838,
@@ -527,14 +528,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Jak přišla hrdlička k pásce",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "František • Ladění",
       "file": "ladeni_027.html",
       "words": 77,
       "chars": 388,
@@ -547,18 +548,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "František",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "HOŘKÁ… • Ladění",
       "file": "ladeni_028.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
       "role": "chapter",
       "order": 27,
       "prev": "ladeni_027.html",
@@ -567,14 +568,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "HOŘKÁ…",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Není jména • Ladění",
       "file": "ladeni_029.html",
       "words": 81,
       "chars": 440,
@@ -587,14 +588,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Není jména",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Déšť v dubnu • Ladění",
       "file": "ladeni_030.html",
       "words": 98,
       "chars": 540,
@@ -607,14 +608,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Déšť v dubnu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Déšť v listopadu • Ladění",
       "file": "ladeni_031.html",
       "words": 47,
       "chars": 217,
@@ -627,14 +628,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Déšť v listopadu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Svítáníčko\n • Ladění",
       "file": "ladeni_032.html",
       "words": 67,
       "chars": 328,
@@ -647,14 +648,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Svítáníčko",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Loutna • Ladění",
       "file": "ladeni_033.html",
       "words": 39,
       "chars": 234,
@@ -667,14 +668,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Loutna",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Střídání • Ladění",
       "file": "ladeni_034.html",
       "words": 65,
       "chars": 323,
@@ -687,14 +688,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Střídání",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Hořká • Ladění",
       "file": "ladeni_035.html",
       "words": 38,
       "chars": 200,
@@ -707,14 +708,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hořká",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Nic víc • Ladění",
       "file": "ladeni_036.html",
       "words": 93,
       "chars": 476,
@@ -727,14 +728,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Nic víc",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Loučení • Ladění",
       "file": "ladeni_037.html",
       "words": 104,
       "chars": 552,
@@ -747,14 +748,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Loučení",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Přání • Ladění",
       "file": "ladeni_038.html",
       "words": 36,
       "chars": 179,
@@ -767,14 +768,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Přání",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Ještě teď • Ladění",
       "file": "ladeni_039.html",
       "words": 67,
       "chars": 334,
@@ -787,14 +788,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ještě teď",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Jen tak • Ladění",
       "file": "ladeni_040.html",
       "words": 56,
       "chars": 293,
@@ -807,18 +808,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Jen tak",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "PSÍ VÍNO • Ladění",
       "file": "ladeni_041.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 2,
+      "chars": 8,
+      "ideas": 1,
       "role": "chapter",
       "order": 40,
       "prev": "ladeni_040.html",
@@ -827,14 +828,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "PSÍ VÍNO",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Psí víno • Ladění",
       "file": "ladeni_042.html",
       "words": 67,
       "chars": 356,
@@ -847,14 +848,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Psí víno",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Básník • Ladění",
       "file": "ladeni_043.html",
       "words": 185,
       "chars": 989,
@@ -867,14 +868,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Básník",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Sláva slova • Ladění",
       "file": "ladeni_044.html",
       "words": 121,
       "chars": 640,
@@ -887,14 +888,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Sláva slova",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Radosti… • Ladění",
       "file": "ladeni_045.html",
       "words": 109,
       "chars": 606,
@@ -907,14 +908,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Radosti…",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Hledání • Ladění",
       "file": "ladeni_046.html",
       "words": 124,
       "chars": 659,
@@ -927,14 +928,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hledání",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Ráno • Ladění",
       "file": "ladeni_047.html",
       "words": 60,
       "chars": 307,
@@ -947,14 +948,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Ráno",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Pod Zvičinou • Ladění",
       "file": "ladeni_048.html",
       "words": 84,
       "chars": 487,
@@ -967,14 +968,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Pod Zvičinou",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Chudáci • Ladění",
       "file": "ladeni_049.html",
       "words": 124,
       "chars": 690,
@@ -987,14 +988,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Chudáci",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Vinice • Ladění",
       "file": "ladeni_050.html",
       "words": 86,
       "chars": 515,
@@ -1007,18 +1008,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Vinice",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "STISKY • Ladění",
       "file": "ladeni_051.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 1,
+      "chars": 6,
+      "ideas": 1,
       "role": "chapter",
       "order": 50,
       "prev": "ladeni_050.html",
@@ -1027,14 +1028,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "STISKY",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Dnes zrovna tak • Ladění",
       "file": "ladeni_052.html",
       "words": 115,
       "chars": 604,
@@ -1047,14 +1048,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Dnes zrovna tak",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Vypravěč • Ladění",
       "file": "ladeni_053.html",
       "words": 168,
       "chars": 910,
@@ -1067,14 +1068,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Vypravěč",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Karlu Tomanovi • Ladění",
       "file": "ladeni_054.html",
       "words": 62,
       "chars": 359,
@@ -1087,14 +1088,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Karlu Tomanovi",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Pro Antonína Procházku • Ladění",
       "file": "ladeni_055.html",
       "words": 113,
       "chars": 670,
@@ -1107,14 +1108,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Pro Antonína Procházku",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Přes paletu • Ladění",
       "file": "ladeni_056.html",
       "words": 128,
       "chars": 689,
@@ -1127,14 +1128,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Přes paletu",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Petru Bezručovi • Ladění",
       "file": "ladeni_057.html",
       "words": 72,
       "chars": 425,
@@ -1147,14 +1148,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Petru Bezručovi",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Krysař • Ladění",
       "file": "ladeni_058.html",
       "words": 59,
       "chars": 326,
@@ -1167,18 +1168,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Krysař",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "ZA HROB • Ladění",
       "file": "ladeni_059.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 2,
+      "chars": 7,
+      "ideas": 1,
       "role": "chapter",
       "order": 58,
       "prev": "ladeni_058.html",
@@ -1187,14 +1188,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "ZA HROB",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Smrt Jiřího Mahena • Ladění",
       "file": "ladeni_060.html",
       "words": 100,
       "chars": 564,
@@ -1207,14 +1208,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Smrt Jiřího Mahena",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Za Jiřím Ortenem • Ladění",
       "file": "ladeni_061.html",
       "words": 261,
       "chars": 1434,
@@ -1227,14 +1228,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Za Jiřím Ortenem",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Na hrob Hanuše Jelínka • Ladění",
       "file": "ladeni_062.html",
       "words": 104,
       "chars": 565,
@@ -1247,14 +1248,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Na hrob Hanuše Jelínka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "In memoriam • Ladění",
       "file": "ladeni_063.html",
       "words": 62,
       "chars": 338,
@@ -1267,14 +1268,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "In memoriam",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Bedřich Smetana • Ladění",
       "file": "ladeni_064.html",
       "words": 150,
       "chars": 879,
@@ -1287,18 +1288,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Bedřich Smetana",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Variace na nerudovské téma • Ladění",
       "file": "ladeni_065.html",
-      "words": 34,
-      "chars": 182,
-      "ideas": 5,
+      "words": 4,
+      "chars": 26,
+      "ideas": 1,
       "role": "chapter",
       "order": 64,
       "prev": "ladeni_064.html",
@@ -1307,14 +1308,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Variace na nerudovské téma",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Otec a syn • Ladění",
       "file": "ladeni_066.html",
       "words": 65,
       "chars": 349,
@@ -1327,14 +1328,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Otec a syn",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Za básníkem • Ladění",
       "file": "ladeni_067.html",
       "words": 131,
       "chars": 795,
@@ -1347,14 +1348,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Za básníkem",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Opuštěná paleta • Ladění",
       "file": "ladeni_068.html",
       "words": 201,
       "chars": 1100,
@@ -1367,14 +1368,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Opuštěná paleta",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Přípravce soudů • Ladění",
       "file": "ladeni_069.html",
       "words": 292,
       "chars": 1562,
@@ -1387,14 +1388,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Přípravce soudů",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "F. X. Š. • Ladění",
       "file": "ladeni_070.html",
       "words": 41,
       "chars": 215,
@@ -1407,18 +1408,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "F. X. Š.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "HREJME DÁLE • Ladění",
       "file": "ladeni_071.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
       "role": "chapter",
       "order": 70,
       "prev": "ladeni_070.html",
@@ -1427,14 +1428,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "HREJME DÁLE",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Hrejme dále • Ladění",
       "file": "ladeni_072.html",
       "words": 131,
       "chars": 702,
@@ -1447,14 +1448,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Hrejme dále",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Památce K. H. M. • Ladění",
       "file": "ladeni_073.html",
       "words": 77,
       "chars": 411,
@@ -1467,14 +1468,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Památce K. H. M.",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Březen 1939 • Ladění",
       "file": "ladeni_074.html",
       "words": 57,
       "chars": 299,
@@ -1487,14 +1488,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Březen 1939",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ladění",
+      "title": "Prosba • Ladění",
       "file": "ladeni_075.html",
       "words": 184,
       "chars": 914,
@@ -1507,7 +1508,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Prosba",
           "id": null,
           "children": []
         }
@@ -1536,14 +1537,14 @@
   ],
   "totals": {
     "all": {
-      "words": 5727,
-      "chars": 30967,
-      "ideas": 1243
+      "words": 5661,
+      "chars": 30629,
+      "ideas": 1237
     },
     "chapters": {
-      "words": 5721,
-      "chars": 30930,
-      "ideas": 1238
+      "words": 5655,
+      "chars": 30592,
+      "ideas": 1232
     }
   }
 }

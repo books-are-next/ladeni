@@ -1,33 +1,32 @@
 ---
+title: Psí víno
 contentType: prose
 ---
 
-Psí víno
-
-Psí víno na zdích chudobince  
+_Psí víno na zdích chudobince  
 jenom psí víno  
-jsou verše útěchy
+jsou verše útěchy_
 
   
 
-Houstnoucí stíny Kosti dne  
+_Houstnoucí stíny Kosti dne  
 toť vše co zbylo z poledne  
-z poledne věcí lide tvých
+z poledne věcí lide tvých_
 
   
 
-V močálu noci inkoustové  
+_V močálu noci inkoustové  
 jen ticho rybí rosol plove  
-a dál vyblédá negativ
+a dál vyblédá negativ_
 
   
 
-Ty marně hmatáš po akordu  
+_Ty marně hmatáš po akordu  
 toť jako bys chtěl špičkou kordu  
-vyčistit z bláta střevíce
+vyčistit z bláta střevíce_
 
   
 
-Psí víno na zdích chudobince  
+_Psí víno na zdích chudobince  
 jenom psí víno  
-jsou verše útěchy
+jsou verše útěchy_
