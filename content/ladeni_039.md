@@ -1,29 +1,28 @@
 ---
+title: Ještě teď
 contentType: prose
 ---
 
-Ještě teď
-
-Ještě teď se olizuji Ještě dnes  
+_Ještě teď se olizuji Ještě dnes  
 po tak dávném polaskání  
 přes srdce bych nepřenes  
-pomyšlení neshledání
+pomyšlení neshledání_
 
   
 
-Copak vám Vám je hej  
+_Copak vám Vám je hej  
 vy když chcete smíte říci  
-Mami Mami pofoukej
+Mami Mami pofoukej_
 
   
 
-Právě teď tu všecko voní  
+_Právě teď tu všecko voní  
 voní stín a mrtvé prach  
 mně se vám tak stýská po ní  
-už bych chtěl být na márách
+už bych chtěl být na márách_
 
   
 
-Copak vám Vám je hej  
+_Copak vám Vám je hej  
 vy když chcete smíte říci  
-Mami Mami pofoukej
+Mami Mami pofoukej_

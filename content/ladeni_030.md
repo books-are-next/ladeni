@@ -1,43 +1,42 @@
 ---
+title: "Déšť v\_dubnu"
 contentType: prose
 ---
 
-Déšť v dubnu
-
 _J. Žantovskému_
 
-Poblázněn trochu jako Keats  
+_Poblázněn trochu jako Keats  
 když psávával své Fanny  
-domlouvám jaru co lupe v lupení
+domlouvám jaru co lupe v lupení_
 
   
 
-Překousni nitě které stehovaly  
+_Překousni nitě které stehovaly  
 zemi a vdoví šat jí šijí  
 Ty deště žalné jak by omývaly  
-v hlubině krásnou Ofelii
+v hlubině krásnou Ofelii_
 
   
 
-Vyhrň si rukávy a přilož polínko
+_Vyhrň si rukávy a přilož polínko_
 
   
 
-Prohrábnout stačí popel spálenisk  
+_Prohrábnout stačí popel spálenisk  
 rozklenout větry očistné  
 pomoci všemu co kámen stisk  
-vyplnit důlky milostné
+vyplnit důlky milostné_
 
   
 
-Ztiš miserere v korunách  
+_Ztiš miserere v korunách  
 hleď jaro pospíšit si říci  
 že země vlčí hlad  
-zadáví lenošící
+zadáví lenošící_
 
   
 
-Ať zlatá ústa po listí bloudí zase  
+_Ať zlatá ústa po listí bloudí zase  
 a v polích zrní zavrní  
 kdejaká žilka ve mně vyptává se  
-už jsem jak na trní
+už jsem jak na trní_

@@ -1,47 +1,46 @@
 ---
+title: Přes paletu
 contentType: prose
 ---
 
-Přes paletu
-
 _Vilému Plockovi_
 
-Nad sebe sama vybrané věci vrší  
+_Nad sebe sama vybrané věci vrší  
 z němoty vzrůstá do ticha  
-trhlinou smutku Sírnou barvu má
+trhlinou smutku Sírnou barvu má_
 
   
 
-On město postavil si po druhé  
+_On město postavil si po druhé  
 aby lépe bydlelo se mu a netlačilo kamení  
-zmučené trváním
+zmučené trváním_
 
   
 
-V zlatobokých zdech po střížích světla  
+_V zlatobokých zdech po střížích světla  
 tehda kdy luna stříbrně se vším počíná si  
-on štětce otírá o hřívu viděného
+on štětce otírá o hřívu viděného_
 
   
 
-Dívejte se V zlatém pýření rána  
+_Dívejte se V zlatém pýření rána  
 Komu se to zdáme barvy ptají se  
-a s plachostí vcházejí do růžiště obrazů
+a s plachostí vcházejí do růžiště obrazů_
 
   
 
-Jak horní dětský ret tak něžně odchlípen  
+_Jak horní dětský ret tak něžně odchlípen  
 je povrch všeho a křídlatí mu uměním  
-co koktá udiveno ještě
+co koktá udiveno ještě_
 
   
 
-A hle Zlatá ryba ve vodě achátové  
+_A hle Zlatá ryba ve vodě achátové  
 s polklým prstenem zásnub  
-mu čeří hlatě krásných nejistot
+mu čeří hlatě krásných nejistot_
 
   
 
-Ten malíř zfantěný už vyjíždí  
+_Ten malíř zfantěný už vyjíždí  
 a po způsobu jak udidla barev  
-pevně drží ho poznáte A přejte mu
+pevně drží ho poznáte A přejte mu_

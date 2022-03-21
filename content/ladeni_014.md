@@ -1,17 +1,16 @@
 ---
+title: Hádanka první
 contentType: prose
 ---
 
-Hádanka první
-
-Moc a moc malých švadlenek  
+_Moc a moc malých švadlenek  
 pospíchá do domečku  
 tancují tam šlapáka  
-po hebkém jehelníčku
+po hebkém jehelníčku_
 
   
 
-Pak seberou kdejaký prášek  
+_Pak seberou kdejaký prášek  
 a letí rovně nerovně  
 až tam kde malý Kulihrášek  
-med mlsá paní královně
+med mlsá paní královně_

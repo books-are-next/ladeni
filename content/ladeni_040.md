@@ -1,24 +1,23 @@
 ---
+title: Jen tak
 contentType: prose
 ---
 
-Jen tak
-
-V tvých kotnících se zhlíží kvítí  
+_V tvých kotnících se zhlíží kvítí  
 a ptáci krůčků tvých  
 jdou zobáčky si omočiti  
-do hudby v podpatcích
+do hudby v podpatcích_
 
   
 
-A sukně tvé to vyzvonily  
+_A sukně tvé to vyzvonily  
 že vespod v teplých tmách  
 máš dolíček tak tuze milý  
-jak děti na ručkách
+jak děti na ručkách_
 
   
 
-Když noc tvé nohy rozvazuje  
+_Když noc tvé nohy rozvazuje  
 zahálí hříšně něha má  
 a žíly jitra podvazuje  
-sen zchromlýma pak prstama
+sen zchromlýma pak prstama_

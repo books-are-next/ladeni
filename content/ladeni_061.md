@@ -1,141 +1,140 @@
 ---
+title: Za Jiřím Ortenem
 contentType: prose
 ---
 
-Za Jiřím Ortenem
-
-V měsíci sklizně  
+_V měsíci sklizně  
 bled a natažený  
 ztracen pro utrpení  
 leží ten básník sotva olistněný  
-a Musa cuká křídlem trčícím
+a Musa cuká křídlem trčícím_
 
   
 
-Tich leží natažený  
+_Tich leží natažený  
 už jen syn ženy  
 smrtelný syn ženy  
 a marně Poesie tiskne ucho své  
-už se neozve
+už se neozve_
 
   
 
-Nesmírné oči vyčítavé  
+_Nesmírné oči vyčítavé  
 nesmírné oči ponížené  
 smutný smutný  
 o tolik smutnější  
 anděla poznavšího  
-klín ženy vezdejší
+klín ženy vezdejší_
 
   
 
-Ametystová spona jeho rtů  
+_Ametystová spona jeho rtů  
 přidržuje sinavost  
-a krve třepení
+a krve třepení_
 
   
 
-Co čeká
+_Co čeká_
 
   
 
-Nehybnou úzkost soch  
+_Nehybnou úzkost soch  
 soch do nichž kámen rozvíjí se  
-a vítr vítr očistný
+a vítr vítr očistný_
 
   
 
-co trávu marné slávy čeří  
+_co trávu marné slávy čeří  
 jasice básní  
-do Styxu napadalé
+do Styxu napadalé_
 
   
 
-Já chodím tmou  
+_Já chodím tmou  
 stranou dnů vřeštících  
 a stesk ta stará růže pršící  
 v kalužinku rozlévá se  
 Nákaza třesavky se plíží  
-podšívku tmy rozparují bubny
+podšívku tmy rozparují bubny_
 
   
 
-Už je po naději  
+_Už je po naději  
 vzduch nabit varhanami  
 a vata měsíční  
-ucpává žalu mokvání
+ucpává žalu mokvání_
 
   
 
-Jen vzpomínka
+_Jen vzpomínka_
 
   
 
-Vždyť Bože to je on
+_Vždyť Bože to je on_
 
   
 
-ten na sklo věčnosti tak přitisknutý  
+_ten na sklo věčnosti tak přitisknutý  
 co veršem cloně si  
 nahlížel do záhrobí  
 a nosík přitlačený  
 podoben kvítku byl  
 z mé strany kvítku  
 Spadlo do jámy  
-a tiché hřmění prošlo hlínou
+a tiché hřmění prošlo hlínou_
 
   
 
-On věděl
+_On věděl_
 
   
 
-co tlačí básně ve střevíčku  
+_co tlačí básně ve střevíčku  
 teď nemá ani na hromničku  
 keřík zlatý odkad mrtvý hlas  
-beze slov těší nás
+beze slov těší nás_
 
   
 
-On věděl
+_On věděl_
 
   
 
-v samotě slov si žil  
+_v samotě slov si žil  
 pamětliv služby byl  
 dlužen pranikomu  
 vlažné vyplivoval  
 strašně ducha lačen  
-do žalmů rostl
+do žalmů rostl_
 
   
 
-Už tone v nicotě
+_Už tone v nicotě_
 
   
 
-Přes hrob přeletí sníh  
+_Přes hrob přeletí sníh  
 sníh umouněný  
 jako papír vyhozený  
-dopis s verši k nepřečtení
+dopis s verši k nepřečtení_
 
   
 
-Hrany znějí  
+_Hrany znějí  
 toť dupot kopyt  
 koně básníků  
 běží a běží do stáje stínů  
 hřívu zapálenu  
-frkaje zděšením
+frkaje zděšením_
 
   
 
-U trůnu popela  
+_U trůnu popela  
 lalije voňavá  
-k orlům ukazuje
+k orlům ukazuje_
 
   
 
-Až v katedrálách budou plouti ryby  
+_Až v katedrálách budou plouti ryby  
 tento básník  
-vyvolán bude jménem
+vyvolán bude jménem_

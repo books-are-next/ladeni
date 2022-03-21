@@ -1,30 +1,29 @@
 ---
+title: František
 contentType: prose
 ---
 
-František
-
-Ladičkou toho jména  
+_Ladičkou toho jména  
 dávné se vrátilo  
 co do tmy zatlačeno  
 Buď pochváleno jméno  
 I kdyby na sůl nebylo  
-zahálet báseň nemá
+zahálet báseň nemá_
 
   
 
-Ať uhladí se zmuchlaná  
+_Ať uhladí se zmuchlaná  
 svá pírka rozčechrá  
 a nějak rozváže  
 Zpívat se musí No baže  
 I na varhánky hra je hra  
-sebehůř vrzaná
+sebehůř vrzaná_
 
   
 
-Nevídáno Nechť říká kdo říká  
+_Nevídáno Nechť říká kdo říká  
 že časy těžké jsou  
 Já k dětem šel jsem pro rozumy  
 všelicos z nebe ještě umí  
 a nepotázal se s tak zlou  
-když ten čas tolik utíká
+když ten čas tolik utíká_

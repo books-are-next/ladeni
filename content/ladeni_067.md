@@ -1,56 +1,55 @@
 ---
+title: Za básníkem
 contentType: prose
 ---
 
-Za básníkem
-
-Ó bázni Tanečnice pavučin  
-tkaných osudem nevidomým
+_Ó bázni Tanečnice pavučin  
+tkaných osudem nevidomým_
 
   
 
-Básni z níž poztrácel jsem  
+_Básni z níž poztrácel jsem  
 téměř všechna slova  
-ty všudypřítomná básni
+ty všudypřítomná básni_
 
   
 
-Pln pokušení sloučit sporá upamatování  
+_Pln pokušení sloučit sporá upamatování  
 v novou zářivou věrnost  
 brodím se listím podzimním  
 jako bych šlapal po roztříštěných  
 oknech katedrál  
 Žluté tváře fialová roucha  
-šarlatové rány hnědá zaschlá krev
+šarlatové rány hnědá zaschlá krev_
 
   
 
-Tiché ptactvo poprchává šerem  
+_Tiché ptactvo poprchává šerem  
 a všechny věci projevují mi milosrdenství  
-jak bývá v pohádkách
+jak bývá v pohádkách_
 
   
 
-Rozkývala se větvička pod duší  
+_Rozkývala se větvička pod duší  
 která mě náhle opustila  
 Ty se máš Ty se máš  
 ale co počneš si ve světě převráceném  
 až vrátíš se zcuchána rukou kostlivčí  
-z brány pokolení
+z brány pokolení_
 
   
 
-Ó bázni Tanečnice pavučin  
-tkaných osudem nevidomým
+_Ó bázni Tanečnice pavučin  
+tkaných osudem nevidomým_
 
   
 
-Stín básníka zabitého růží  
+_Stín básníka zabitého růží  
 v kamej západu zázračně jistě ryje  
 všechna poztrácená slova  
-v novou neskonalou věrnost
+v novou neskonalou věrnost_
 
   
 
-A má jak listí zamrzlé v kalužích  
-mlčí za elegie šustotu a mžení
+_A má jak listí zamrzlé v kalužích  
+mlčí za elegie šustotu a mžení_

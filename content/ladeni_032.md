@@ -1,27 +1,27 @@
 ---
+title: |
+  Svítáníčko
 contentType: prose
 ---
 
-Svítáníčko
-
-Ba ne to není Colombina  
+_Ba ne to není Colombina  
 na to má ústka tuze zpyšnělá  
 a má-li v očích příslib vína  
-Vinobraní Ne to by nechtěla
+Vinobraní Ne to by nechtěla_
 
   
 
-Klára Nelíbe její jméno je  
-to jméno básník v noci miluje
+_Klára Nelíbe její jméno je  
+to jméno básník v noci miluje_
 
   
 
-Ba ne ta není k hraní  
+_Ba ne ta není k hraní  
 na to má čelo hrdě záštitné  
 znám víček tichá pokárání  
-Líbat jen líbat ne
+Líbat jen líbat ne_
 
   
 
-Aletone Aletone se v noci jmenuje  
-to jméno básník ve dne zas miluje
+_Aletone Aletone se v noci jmenuje  
+to jméno básník ve dne zas miluje_

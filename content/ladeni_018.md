@@ -1,31 +1,30 @@
 ---
+title: Stínohry
 contentType: prose
 ---
 
-Stínohry
-
-Pro úsměv uplakánků  
+_Pro úsměv uplakánků  
 všech deset dovádí  
 hrají si na přeháňku  
-a nic jim nevadí
+a nic jim nevadí_
 
   
 
-pro úsměv ucupánků  
+_pro úsměv ucupánků  
 všem věcem stíny brát  
 otvírat světlům branku  
-tím umřít kolikrát
+tím umřít kolikrát_
 
   
 
-Pro úsměv uvzdychánků  
+_Pro úsměv uvzdychánků  
 pět prstů maškaří  
 až děcku do moldánku  
-se bubák zatváří
+se bubák zatváří_
 
   
 
-Pro úsměv ufňukánků  
+_Pro úsměv ufňukánků  
 spí když hra dohrána  
 a ohrndírka v spánku  
-jančí pak do rána
+jančí pak do rána_

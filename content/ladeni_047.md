@@ -1,24 +1,23 @@
 ---
+title: Ráno
 contentType: prose
 ---
 
-Ráno
-
-Tak daleko se zaběhly  
+_Tak daleko se zaběhly  
 ty jitřní dnové dětství mého  
 ještě že skryl jsem do truhly  
-podkůvku štěstí ztraceného
+podkůvku štěstí ztraceného_
 
   
 
-Když pomodlí se květiny a ptáci  
+_Když pomodlí se květiny a ptáci  
 jak za noci to bývá  
 jeden z těch dnů se z dálky vrací  
-a bláznivě si zpívá
+a bláznivě si zpívá_
 
   
 
-A já mu smyčec podstrčím  
+_A já mu smyčec podstrčím  
 housle jsou dávno rozlámány  
 i tak je vzácný víte čím  
-Je blesky kalafunovaný
+Je blesky kalafunovaný_

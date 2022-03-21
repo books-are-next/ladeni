@@ -1,37 +1,36 @@
 ---
+title: Dnes zrovna tak
 contentType: prose
 ---
 
-Dnes zrovna tak
-
 _Josefu Horovi_
 
-Z tolika nocí náš ukusoval hlad  
+_Z tolika nocí náš ukusoval hlad  
 jen vindra v klamu kapsách byla  
 však po útratách vždycky zbyla  
 zář co sny naše násobila  
-do součtu štěstí zrad
+do součtu štěstí zrad_
 
   
 
-Z tolika veršů tvých se hlava motala  
+_Z tolika veršů tvých se hlava motala  
 a dobře bylo když ti klesal hlas  
 z jednoho ještě na srdci mám mráz  
 TAM DOLE POMLOUVAJÍ NÁS  
-Má duše však se s tebou nebála
+Má duše však se s tebou nebála_
 
   
 
-Z tolika kuželů jsi uměl nasoukat  
+_Z tolika kuželů jsi uměl nasoukat  
 slunečnou píseň i tu černající  
 rozryvnou srdnatě neslzící  
 obilí vtlučené a přece sypající  
-loudavý čas jde si je vyhrabat
+loudavý čas jde si je vyhrabat_
 
   
 
-Z tolika křiků bídy byla fanfára  
+_Z tolika křiků bídy byla fanfára  
 co hřímávalo ztišeno je  
 a přísní vše co moje tvoje  
 Tvůj verš tiší mé nepokoje  
-dnes zrovna tak jak za stara
+dnes zrovna tak jak za stara_

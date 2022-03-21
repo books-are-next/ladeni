@@ -1,46 +1,45 @@
 ---
+title: Smrt Jiřího Mahena
 contentType: prose
 ---
 
-Smrt Jiřího Mahena
-
-Na katafalku hrůzy leží mrtvý  
+_Na katafalku hrůzy leží mrtvý  
 Ne To není pravda srdce vzpírá se  
-a vynechává v stiscích zoufalství
+a vynechává v stiscích zoufalství_
 
   
 
-Dnes po druhé za pláč se nestydím  
-a zuby nezatínám
+_Dnes po druhé za pláč se nestydím  
+a zuby nezatínám_
 
   
 
-Anarchistovo ráno pije tmu  
+_Anarchistovo ráno pije tmu  
 tvé beznaděje básníku  
-ta slavná honba za Bohem je skončena
+ta slavná honba za Bohem je skončena_
 
   
 
-Křik smrti Tvé nás alarmuje  
-zmučený Janošíku
+_Křik smrti Tvé nás alarmuje  
+zmučený Janošíku_
 
   
 
-V samotách zlých v zlých samotách  
+_V samotách zlých v zlých samotách  
 houf věrných Tvých se potácí  
-a přízrak Nicoty je vtělen v konec Tvůj
+a přízrak Nicoty je vtělen v konec Tvůj_
 
   
 
-Však bouře očistná se sbírá ve mracích  
-provazy blesků zítřek zauzluje
+_Však bouře očistná se sbírá ve mracích  
+provazy blesků zítřek zauzluje_
 
   
 
-Horní chlapci budou mít dnes sněm  
+_Horní chlapci budou mít dnes sněm  
 poslední z nich k nim přichází  
-a obrácen nazad hrozí valaškou
+a obrácen nazad hrozí valaškou_
 
   
 
-Mahene! Mahene!
+_Mahene! Mahene!_

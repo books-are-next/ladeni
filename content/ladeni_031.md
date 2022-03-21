@@ -1,26 +1,25 @@
 ---
+title: "Déšť v\_listopadu"
 contentType: prose
 ---
 
-Déšť v listopadu
-
-Taková voda  
+_Taková voda  
 zmučená voda voda žal  
 jako ta voda  
-co si v ní Pilát ruce umýval
+co si v ní Pilát ruce umýval_
 
   
 
-Taková voda padá
+_Taková voda padá_
 
   
 
-A co bys chtěl  
+_A co bys chtěl  
 až k srdci zamračený  
-když taková voda padá
+když taková voda padá_
 
   
 
-A já bych chtěl  
+_A já bych chtěl  
 slzavý úsměv smutné ženy  
-co mě má ještě ráda
+co mě má ještě ráda_

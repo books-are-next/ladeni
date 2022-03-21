@@ -1,31 +1,30 @@
 ---
+title: Slova
 contentType: prose
 ---
 
-Slova
-
-Taková těžká těžší vzletu vrány  
+_Taková těžká těžší vzletu vrány  
 taková mračná někdy jsou  
 počinek hořký darovaný  
-kterousi sudbou nedobrou
+kterousi sudbou nedobrou_
 
   
 
-Lehká ba lehčí slzy na krajíčku  
+_Lehká ba lehčí slzy na krajíčku  
 ale i z těch si vybrat smím  
 takový verš však na petličku  
-přiráží dvířka s tajemstvím
+přiráží dvířka s tajemstvím_
 
   
 
-Plná plná plnější jsou ticha  
+_Plná plná plnější jsou ticha  
 křehčejší v tůni okřehku  
 ale ať báseň sama si je smíchá  
-poslední první i ta z prostředku
+poslední první i ta z prostředku_
 
   
 
-Jednou i nechtě musíš jíti  
+_Jednou i nechtě musíš jíti  
 a vydat počet z útrap svých  
 pak za slavného čepobití  
-rázem se zbavíš nepravých
+rázem se zbavíš nepravých_

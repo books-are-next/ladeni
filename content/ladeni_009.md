@@ -1,23 +1,22 @@
 ---
+title: Poučení otcovské
 contentType: prose
 ---
 
-Poučení otcovské
-
-To nejsou vlnky  
+_To nejsou vlnky  
 to rusalek jsou jména  
 a to co slyšíš Brnky brnky  
 je harfa Vltavina  
-trošku rozladěná
+trošku rozladěná_
 
   
 
-Ty rusalky když mají hlad  
+_Ty rusalky když mají hlad  
 hned luna strojí večeři  
 na stříbře po dvou kačenkách  
-Ať běží tam kdo nevěří
+Ať běží tam kdo nevěří_
 
   
 
-Tma tmoucí tmoucí tma  
-stříbro pak umývá
+_Tma tmoucí tmoucí tma  
+stříbro pak umývá_

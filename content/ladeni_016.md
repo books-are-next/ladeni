@@ -1,24 +1,23 @@
 ---
+title: "Hádanka třetí s\_rozřešením"
 contentType: prose
 ---
 
-Hádanka třetí s rozřešením
-
-Jedna má nožička  
+_Jedna má nožička  
 a druhá má nožička  
-to má strašně ráda
+to má strašně ráda_
 
   
 
-Teplé je to mlaská to  
+_Teplé je to mlaská to  
 kdejakou věc chytá to  
-a když ji pustí co bys řek
+a když ji pustí co bys řek_
 
   
 
-Nechá si to na památku obrázek
+_Nechá si to na památku obrázek_
 
   
 
-Táto Táto  
-To jsou přece včeličky koťátko a bláto
+_Táto Táto  
+To jsou přece včeličky koťátko a bláto_

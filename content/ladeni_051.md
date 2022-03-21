@@ -1,5 +1,6 @@
 ---
+title: STISKY
 contentType: prose
 ---
 
-STISKY
+

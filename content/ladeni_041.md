@@ -1,5 +1,6 @@
 ---
+title: PSÍ VÍNO
 contentType: prose
 ---
 
-PSÍ VÍNO
+

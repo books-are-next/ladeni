@@ -1,65 +1,64 @@
 ---
+title: Hrejme dále
 contentType: prose
 ---
 
-Hrejme dále
-
-To co k básni ladívalo  
+_To co k básni ladívalo  
 a po struníku smyslů hmatalo  
 dnes-li neladí  
 to co na vážkách se lehkým stalo  
 a milované v kletbu dalo  
-nic nevadí
+nic nevadí_
 
   
 
-Hrejme dále
+_Hrejme dále_
 
   
 
-Ty verši zbytečně se neohni  
+_Ty verši zbytečně se neohni  
 ať řeknou hudba v prázdném sále  
-ať řeknou mračno kouře po ohni
+ať řeknou mračno kouře po ohni_
 
   
 
-Hrejme dále
+_Hrejme dále_
 
   
 
-V nocích za dveřmi se cosi plouží stále  
+_V nocích za dveřmi se cosi plouží stále  
 Pradávné verše jsou to jsou  
-a trou se bludnou ozvěnou
+a trou se bludnou ozvěnou_
 
   
 
-Dílo sluneční je věčné ale  
+_Dílo sluneční je věčné ale  
 a cesta básně ta je bez konce  
 až ráno otočí si růže rozespalé  
-začněme znova zhurta i lehounce
+začněme znova zhurta i lehounce_
 
   
 
-Ozve se Dále
+_Ozve se Dále_
 
   
 
-A zabloudíš-li v slyšení  
+_A zabloudíš-li v slyšení  
 osnovu rozpleť viděného  
 a uklouzneš-li v cítění  
-za křídlo chyť se tušeného
+za křídlo chyť se tušeného_
 
   
 
-Nenadále
+_Nenadále_
 
   
 
-báseň sama tvrdě křísne  
+_báseň sama tvrdě křísne  
 do troudu slova Tam je ztajena  
 prastará moudrost jejíž čelo přísné  
-přilbicí blesků kryje Athéna
+přilbicí blesků kryje Athéna_
 
   
 
-Hrejme dále
+_Hrejme dále_

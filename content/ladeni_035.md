@@ -1,17 +1,16 @@
 ---
+title: Hořká
 contentType: prose
 ---
 
-Hořká
-
-Noc křídel neměla  
+_Noc křídel neměla  
 jako by z hanby křídla mohla růst  
 Trnutí hořká lačnost zardělá  
-na žvancích úst
+na žvancích úst_
 
   
 
-A přece něha něha k posledku  
+_A přece něha něha k posledku  
 to ze sna škubaly se ruce její  
 tak kolébají matky kolébku  
-aniž se probouzejí
+aniž se probouzejí_

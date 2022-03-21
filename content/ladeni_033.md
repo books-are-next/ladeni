@@ -1,22 +1,21 @@
 ---
+title: Loutna
 contentType: prose
 ---
 
-Loutna
-
-Přezpívám neživé zhaslé věci  
+_Přezpívám neživé zhaslé věci  
 dobrotu hlasu jim dám  
 celý chór přání hlaholí ve mně  
-Haleluja Haleluja
+Haleluja Haleluja_
 
   
 
-Kam dám já ale zemřelých nářky  
-drásané tmou
+_Kam dám já ale zemřelých nářky  
+drásané tmou_
 
   
 
-Pod sraženou lunu mrtva  
+_Pod sraženou lunu mrtva  
 Pod sraženou lunu mrtva  
 za loutnu bezestrunnou  
-za loutnu bezestrunnou
+za loutnu bezestrunnou_

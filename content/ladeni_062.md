@@ -1,38 +1,37 @@
 ---
+title: Na hrob Hanuše Jelínka
 contentType: prose
 ---
 
-Na hrob Hanuše Jelínka
-
-A zase černě jáma zívá  
+_A zase černě jáma zívá  
 a hřbitov náš se rozšiřuje  
 kdo do hrobu se Tobě dívá  
-bolest si šeptem nadlehčuje
+bolest si šeptem nadlehčuje_
 
   
 
-tím šeptem listů obrácených  
+_tím šeptem listů obrácených  
 z nichž vanou básně milované  
 dvou lásek k slávě zkrvavených  
-Vzkříšený básník z mrtvých vstane
+Vzkříšený básník z mrtvých vstane_
 
   
 
-z té slávy Tebou znivé česky  
+_z té slávy Tebou znivé česky  
 která smrt v život věčný mění  
 ze kterých srázné slétlé blesky  
-nám ztichlým hřmějí do mlčení
+nám ztichlým hřmějí do mlčení_
 
   
 
-Umře-li básník hvězda zmírá  
+_Umře-li básník hvězda zmírá  
 a hvězda básně v jase vstává  
 umře-li básník jeho víra  
-ranami živých prorůstává
+ranami živých prorůstává_
 
   
 
-a když i jámy hloubka zívá  
+_a když i jámy hloubka zívá  
 a hřbitov dál se rozšiřuje  
 do hrobu Tobě kdo se dívá  
-svou bolest jí si nadlehčuje
+svou bolest jí si nadlehčuje_

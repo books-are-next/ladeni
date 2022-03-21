@@ -1,32 +1,31 @@
 ---
+title: Střídání
 contentType: prose
 ---
 
-Střídání
-
-Noc troubí Ta má tma  
-Noc troubí Ta tma má
+_Noc troubí Ta má tma  
+Noc troubí Ta tma má_
 
   
 
-Rezem zlatým žrána  
+_Rezem zlatým žrána  
 vrtí se ve spánku  
 pak modrým koňům rána  
-dá čabrak červánků
+dá čabrak červánků_
 
   
 
-Den troubí Já to slunce sním  
-Den troubí Modří draci spí
+_Den troubí Já to slunce sním  
+Den troubí Modří draci spí_
 
   
 
-Jsou žíly tvé zlatého kroužkování  
+_Jsou žíly tvé zlatého kroužkování  
 má lásko čadící  
 přes hlínu ještě až přijde věčné spaní  
-tě stisknu v kostnici
+tě stisknu v kostnici_
 
   
 
-Noc troubí Ta má tma  
-Noc troubí Ta tma má
+_Noc troubí Ta má tma  
+Noc troubí Ta tma má_
