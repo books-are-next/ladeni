@@ -1,0 +1,1549 @@
+{
+  "author": "František Halas",
+  "edition": "beletrie",
+  "identifier": "halas-ladeni-478356f",
+  "languagecode": "cs",
+  "modified": "2021-10-04T09:05:37.248Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Ladění",
+  "revision": "478356f",
+  "generatedAt": {
+    "date": "Mon Mar 21 2022 09:35:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647855348458
+  },
+  "documents": [
+    {
+      "title": "Ladění",
+      "file": "ladeni_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ladeni_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "ladeni_001.html",
+      "next": "ladeni_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_003.html",
+      "words": 4,
+      "chars": 30,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ladeni_002.html",
+      "next": "ladeni_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_004.html",
+      "words": 79,
+      "chars": 536,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ladeni_003.html",
+      "next": "ladeni_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ladeni_004.html",
+      "next": "ladeni_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_006.html",
+      "words": 79,
+      "chars": 435,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ladeni_005.html",
+      "next": "ladeni_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_007.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ladeni_006.html",
+      "next": "ladeni_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_008.html",
+      "words": 107,
+      "chars": 544,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ladeni_007.html",
+      "next": "ladeni_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_009.html",
+      "words": 46,
+      "chars": 247,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ladeni_008.html",
+      "next": "ladeni_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_010.html",
+      "words": 27,
+      "chars": 139,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 9,
+      "prev": "ladeni_009.html",
+      "next": "ladeni_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_011.html",
+      "words": 49,
+      "chars": 231,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 10,
+      "prev": "ladeni_010.html",
+      "next": "ladeni_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_012.html",
+      "words": 55,
+      "chars": 265,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 11,
+      "prev": "ladeni_011.html",
+      "next": "ladeni_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_013.html",
+      "words": 24,
+      "chars": 124,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 12,
+      "prev": "ladeni_012.html",
+      "next": "ladeni_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_014.html",
+      "words": 33,
+      "chars": 191,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 13,
+      "prev": "ladeni_013.html",
+      "next": "ladeni_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_015.html",
+      "words": 45,
+      "chars": 223,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 14,
+      "prev": "ladeni_014.html",
+      "next": "ladeni_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_016.html",
+      "words": 46,
+      "chars": 223,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 15,
+      "prev": "ladeni_015.html",
+      "next": "ladeni_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_017.html",
+      "words": 51,
+      "chars": 301,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 16,
+      "prev": "ladeni_016.html",
+      "next": "ladeni_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_018.html",
+      "words": 56,
+      "chars": 310,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 17,
+      "prev": "ladeni_017.html",
+      "next": "ladeni_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_019.html",
+      "words": 73,
+      "chars": 373,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 18,
+      "prev": "ladeni_018.html",
+      "next": "ladeni_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_020.html",
+      "words": 62,
+      "chars": 299,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 19,
+      "prev": "ladeni_019.html",
+      "next": "ladeni_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_021.html",
+      "words": 50,
+      "chars": 223,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 20,
+      "prev": "ladeni_020.html",
+      "next": "ladeni_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_022.html",
+      "words": 33,
+      "chars": 154,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 21,
+      "prev": "ladeni_021.html",
+      "next": "ladeni_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_023.html",
+      "words": 47,
+      "chars": 244,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 22,
+      "prev": "ladeni_022.html",
+      "next": "ladeni_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_024.html",
+      "words": 56,
+      "chars": 283,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 23,
+      "prev": "ladeni_023.html",
+      "next": "ladeni_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_025.html",
+      "words": 59,
+      "chars": 347,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 24,
+      "prev": "ladeni_024.html",
+      "next": "ladeni_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_026.html",
+      "words": 158,
+      "chars": 838,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 25,
+      "prev": "ladeni_025.html",
+      "next": "ladeni_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_027.html",
+      "words": 77,
+      "chars": 388,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 26,
+      "prev": "ladeni_026.html",
+      "next": "ladeni_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_028.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 27,
+      "prev": "ladeni_027.html",
+      "next": "ladeni_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_029.html",
+      "words": 81,
+      "chars": 440,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 28,
+      "prev": "ladeni_028.html",
+      "next": "ladeni_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_030.html",
+      "words": 98,
+      "chars": 540,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 29,
+      "prev": "ladeni_029.html",
+      "next": "ladeni_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_031.html",
+      "words": 47,
+      "chars": 217,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 30,
+      "prev": "ladeni_030.html",
+      "next": "ladeni_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_032.html",
+      "words": 67,
+      "chars": 328,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 31,
+      "prev": "ladeni_031.html",
+      "next": "ladeni_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_033.html",
+      "words": 39,
+      "chars": 234,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 32,
+      "prev": "ladeni_032.html",
+      "next": "ladeni_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_034.html",
+      "words": 65,
+      "chars": 323,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 33,
+      "prev": "ladeni_033.html",
+      "next": "ladeni_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_035.html",
+      "words": 38,
+      "chars": 200,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 34,
+      "prev": "ladeni_034.html",
+      "next": "ladeni_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_036.html",
+      "words": 93,
+      "chars": 476,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 35,
+      "prev": "ladeni_035.html",
+      "next": "ladeni_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_037.html",
+      "words": 104,
+      "chars": 552,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 36,
+      "prev": "ladeni_036.html",
+      "next": "ladeni_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_038.html",
+      "words": 36,
+      "chars": 179,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 37,
+      "prev": "ladeni_037.html",
+      "next": "ladeni_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_039.html",
+      "words": 67,
+      "chars": 334,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 38,
+      "prev": "ladeni_038.html",
+      "next": "ladeni_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_040.html",
+      "words": 56,
+      "chars": 293,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 39,
+      "prev": "ladeni_039.html",
+      "next": "ladeni_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_041.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 40,
+      "prev": "ladeni_040.html",
+      "next": "ladeni_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_042.html",
+      "words": 67,
+      "chars": 356,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 41,
+      "prev": "ladeni_041.html",
+      "next": "ladeni_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_043.html",
+      "words": 185,
+      "chars": 989,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 42,
+      "prev": "ladeni_042.html",
+      "next": "ladeni_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_044.html",
+      "words": 121,
+      "chars": 640,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 43,
+      "prev": "ladeni_043.html",
+      "next": "ladeni_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_045.html",
+      "words": 109,
+      "chars": 606,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 44,
+      "prev": "ladeni_044.html",
+      "next": "ladeni_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_046.html",
+      "words": 124,
+      "chars": 659,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 45,
+      "prev": "ladeni_045.html",
+      "next": "ladeni_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_047.html",
+      "words": 60,
+      "chars": 307,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 46,
+      "prev": "ladeni_046.html",
+      "next": "ladeni_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_048.html",
+      "words": 84,
+      "chars": 487,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 47,
+      "prev": "ladeni_047.html",
+      "next": "ladeni_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_049.html",
+      "words": 124,
+      "chars": 690,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 48,
+      "prev": "ladeni_048.html",
+      "next": "ladeni_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_050.html",
+      "words": 86,
+      "chars": 515,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 49,
+      "prev": "ladeni_049.html",
+      "next": "ladeni_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_051.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 50,
+      "prev": "ladeni_050.html",
+      "next": "ladeni_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_052.html",
+      "words": 115,
+      "chars": 604,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 51,
+      "prev": "ladeni_051.html",
+      "next": "ladeni_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_053.html",
+      "words": 168,
+      "chars": 910,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 52,
+      "prev": "ladeni_052.html",
+      "next": "ladeni_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_054.html",
+      "words": 62,
+      "chars": 359,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 53,
+      "prev": "ladeni_053.html",
+      "next": "ladeni_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_055.html",
+      "words": 113,
+      "chars": 670,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 54,
+      "prev": "ladeni_054.html",
+      "next": "ladeni_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_056.html",
+      "words": 128,
+      "chars": 689,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 55,
+      "prev": "ladeni_055.html",
+      "next": "ladeni_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_057.html",
+      "words": 72,
+      "chars": 425,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 56,
+      "prev": "ladeni_056.html",
+      "next": "ladeni_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_058.html",
+      "words": 59,
+      "chars": 326,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 57,
+      "prev": "ladeni_057.html",
+      "next": "ladeni_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_059.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 58,
+      "prev": "ladeni_058.html",
+      "next": "ladeni_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_060.html",
+      "words": 100,
+      "chars": 564,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 59,
+      "prev": "ladeni_059.html",
+      "next": "ladeni_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_061.html",
+      "words": 261,
+      "chars": 1434,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 60,
+      "prev": "ladeni_060.html",
+      "next": "ladeni_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_062.html",
+      "words": 104,
+      "chars": 565,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 61,
+      "prev": "ladeni_061.html",
+      "next": "ladeni_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_063.html",
+      "words": 62,
+      "chars": 338,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 62,
+      "prev": "ladeni_062.html",
+      "next": "ladeni_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_064.html",
+      "words": 150,
+      "chars": 879,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 63,
+      "prev": "ladeni_063.html",
+      "next": "ladeni_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_065.html",
+      "words": 34,
+      "chars": 182,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 64,
+      "prev": "ladeni_064.html",
+      "next": "ladeni_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_066.html",
+      "words": 65,
+      "chars": 349,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 65,
+      "prev": "ladeni_065.html",
+      "next": "ladeni_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_067.html",
+      "words": 131,
+      "chars": 795,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 66,
+      "prev": "ladeni_066.html",
+      "next": "ladeni_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_068.html",
+      "words": 201,
+      "chars": 1100,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 67,
+      "prev": "ladeni_067.html",
+      "next": "ladeni_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_069.html",
+      "words": 292,
+      "chars": 1562,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 68,
+      "prev": "ladeni_068.html",
+      "next": "ladeni_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_070.html",
+      "words": 41,
+      "chars": 215,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 69,
+      "prev": "ladeni_069.html",
+      "next": "ladeni_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_071.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 70,
+      "prev": "ladeni_070.html",
+      "next": "ladeni_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_072.html",
+      "words": 131,
+      "chars": 702,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 71,
+      "prev": "ladeni_071.html",
+      "next": "ladeni_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_073.html",
+      "words": 77,
+      "chars": 411,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 72,
+      "prev": "ladeni_072.html",
+      "next": "ladeni_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_074.html",
+      "words": 57,
+      "chars": 299,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 73,
+      "prev": "ladeni_073.html",
+      "next": "ladeni_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_075.html",
+      "words": 184,
+      "chars": 914,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 74,
+      "prev": "ladeni_074.html",
+      "next": "ladeni_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ladění",
+      "file": "ladeni_076.html",
+      "words": 47,
+      "chars": 325,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 75,
+      "prev": "ladeni_075.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 5727,
+      "chars": 30967,
+      "ideas": 1243
+    },
+    "chapters": {
+      "words": 5721,
+      "chars": 30930,
+      "ideas": 1238
+    }
+  }
+}
