@@ -1,5 +1,5 @@
 ---
-title: F. X. Š.
+title: F\. X\. Š\.
 contentType: prose
 ---
 

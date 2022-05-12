@@ -1,5 +1,5 @@
 ---
-title: Památce K. H. M.
+title: Památce K\. H\. M\.
 contentType: prose
 ---
 

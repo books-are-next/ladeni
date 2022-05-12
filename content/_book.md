@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: ''
 readingOrder:
-  - ladeni_002.html
+  - promo.html
   - ladeni_006.html
   - ladeni_007.html
   - ladeni_008.html
