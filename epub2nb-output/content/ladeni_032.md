@@ -1,6 +1,5 @@
 ---
-title: |
-  Svítáníčko
+title: 'Svítáníčko '
 contentType: prose
 ---
 

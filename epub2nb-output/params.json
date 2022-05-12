@@ -49,7 +49,7 @@
             "filename": "ladeni_002.md",
             "xhtml": "ladeni_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -996,7 +996,7 @@
         "xhtml": "ladeni_031.xhtml"
       },
       {
-        "titleSuggest": "Svítáníčko\n",
+        "titleSuggest": "Svítáníčko ",
         "subtitleSuggest": "",
         "filename": "ladeni_032.md",
         "xhtml": "ladeni_032.xhtml"
@@ -1224,7 +1224,7 @@
         "xhtml": "ladeni_069.xhtml"
       },
       {
-        "titleSuggest": "F. X. Š.",
+        "titleSuggest": "F\\. X\\. Š\\.",
         "subtitleSuggest": "",
         "filename": "ladeni_070.md",
         "xhtml": "ladeni_070.xhtml"
@@ -1242,7 +1242,7 @@
         "xhtml": "ladeni_072.xhtml"
       },
       {
-        "titleSuggest": "Památce K. H. M.",
+        "titleSuggest": "Památce K\\. H\\. M\\.",
         "subtitleSuggest": "",
         "filename": "ladeni_073.md",
         "xhtml": "ladeni_073.xhtml"
@@ -1334,6 +1334,6 @@
       "user": "books-are-next",
       "repo": "ladeni"
     },
-    "generatedAt": 1647888835195
+    "generatedAt": 1652351335590
   }
 }
