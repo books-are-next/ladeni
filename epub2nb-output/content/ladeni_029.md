@@ -1,6 +1,6 @@
 ---
 title: Není jména
-contentType: prose
+contentType: poetry
 ---
 
 _Mimo tvé oči  

@@ -1,6 +1,6 @@
 ---
 title: Na hrob Hanuše Jelínka
-contentType: prose
+contentType: poetry
 ---
 
 _A zase černě jáma zívá  

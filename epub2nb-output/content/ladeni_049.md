@@ -1,6 +1,6 @@
 ---
 title: Chudáci
-contentType: prose
+contentType: poetry
 ---
 
 _Jarmile Urbánkové_

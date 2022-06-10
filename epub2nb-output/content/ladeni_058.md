@@ -1,6 +1,6 @@
 ---
 title: Krysař
-contentType: prose
+contentType: poetry
 ---
 
 _Marii Burešové_

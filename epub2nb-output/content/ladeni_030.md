@@ -1,6 +1,6 @@
 ---
 title: "Déšť v\_dubnu"
-contentType: prose
+contentType: poetry
 ---
 
 _J. Žantovskému_

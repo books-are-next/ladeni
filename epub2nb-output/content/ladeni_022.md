@@ -1,6 +1,6 @@
 ---
 title: Proč
-contentType: prose
+contentType: poetry
 ---
 
 _Vidíš ten šípek Růženka pod ním spí  

@@ -1,6 +1,6 @@
 ---
 title: Psí víno
-contentType: prose
+contentType: poetry
 ---
 
 _Psí víno na zdích chudobince  

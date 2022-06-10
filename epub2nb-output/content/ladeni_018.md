@@ -1,6 +1,6 @@
 ---
 title: Stínohry
-contentType: prose
+contentType: poetry
 ---
 
 _Pro úsměv uplakánků  

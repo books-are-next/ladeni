@@ -1,6 +1,6 @@
 ---
 title: Báchorka
-contentType: prose
+contentType: poetry
 ---
 
 _Fičelo foukalo trávě zima byla  

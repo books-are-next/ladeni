@@ -1,6 +1,6 @@
 ---
 title: Přání
-contentType: prose
+contentType: poetry
 ---
 
 _Ne já bych nerad umíral  

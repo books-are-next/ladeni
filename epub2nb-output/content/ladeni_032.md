@@ -1,6 +1,6 @@
 ---
 title: 'Svítáníčko '
-contentType: prose
+contentType: poetry
 ---
 
 _Ba ne to není Colombina  

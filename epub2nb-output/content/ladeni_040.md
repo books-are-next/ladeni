@@ -1,6 +1,6 @@
 ---
 title: Jen tak
-contentType: prose
+contentType: poetry
 ---
 
 _V tvých kotnících se zhlíží kvítí  

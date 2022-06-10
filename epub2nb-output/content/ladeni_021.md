@@ -1,6 +1,6 @@
 ---
 title: Jak to kdo vidí
-contentType: prose
+contentType: poetry
 ---
 
 _Tady je had a tady zase ryba  

@@ -1,6 +1,6 @@
 ---
 title: F\. X\. Š\.
-contentType: prose
+contentType: poetry
 ---
 
 _Teď ve tmách Lethe prsty své mokří  

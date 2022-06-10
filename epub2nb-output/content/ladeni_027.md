@@ -1,6 +1,6 @@
 ---
 title: František
-contentType: prose
+contentType: poetry
 ---
 
 _Ladičkou toho jména  

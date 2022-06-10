@@ -1,6 +1,6 @@
 ---
 title: Vinice
-contentType: prose
+contentType: poetry
 ---
 
 _Ten zástěrkář už vtrh i do vinice  

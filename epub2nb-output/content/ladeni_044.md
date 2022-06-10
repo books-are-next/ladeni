@@ -1,6 +1,6 @@
 ---
 title: Sláva slova
-contentType: prose
+contentType: poetry
 ---
 
 _Až řeky budou couvat k pramenům  

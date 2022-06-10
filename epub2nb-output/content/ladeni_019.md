@@ -1,6 +1,6 @@
 ---
 title: Písnička
-contentType: prose
+contentType: poetry
 ---
 
 _Had s korunkou a Meluzina  

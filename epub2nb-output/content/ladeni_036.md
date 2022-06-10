@@ -1,6 +1,6 @@
 ---
 title: Nic víc
-contentType: prose
+contentType: poetry
 ---
 
 _Říkám si pořád Život  

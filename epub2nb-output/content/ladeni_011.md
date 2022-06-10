@@ -1,6 +1,6 @@
 ---
 title: Před usnutím I
-contentType: prose
+contentType: poetry
 ---
 
 _Ty nevíš táto to ti bylo k smíchu  

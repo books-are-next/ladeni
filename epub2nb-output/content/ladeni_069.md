@@ -1,6 +1,6 @@
 ---
 title: Přípravce soudů
-contentType: prose
+contentType: poetry
 ---
 
 _Tekuté štětce dešťů  

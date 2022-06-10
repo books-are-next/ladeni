@@ -8,8 +8,8 @@
   "edition": "",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "halas-ladeni-98a4710",
-  "revision": "98a4710",
+  "identifier": "halas-ladeni-628b68b",
+  "revision": "628b68b",
   "readingOrder": [
     "promo.html",
     "ladeni_006.html",
@@ -85,8 +85,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:36:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351804400
+    "date": "Fri Jun 10 2022 14:17:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654870669709
   },
   "documents": [
     {
@@ -1504,9 +1504,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 116,
-      "chars": 783,
-      "ideas": 18,
+      "words": 112,
+      "chars": 736,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "ladeni_075.html",
@@ -1524,9 +1524,9 @@
   ],
   "totals": {
     "all": {
-      "words": 5645,
-      "chars": 30508,
-      "ideas": 1231
+      "words": 5641,
+      "chars": 30461,
+      "ideas": 1230
     },
     "chapters": {
       "words": 5525,

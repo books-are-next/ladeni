@@ -1,6 +1,6 @@
 ---
 title: HREJME DÁLE
-contentType: prose
+contentType: poetry
 ---
 
 

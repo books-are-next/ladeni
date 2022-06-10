@@ -1,6 +1,6 @@
 ---
 title: Hledání
-contentType: prose
+contentType: poetry
 ---
 
 _Stanislavu Hanušovi_

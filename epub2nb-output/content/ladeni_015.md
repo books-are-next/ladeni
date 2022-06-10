@@ -1,6 +1,6 @@
 ---
 title: Hádanka druhá
-contentType: prose
+contentType: poetry
 ---
 
 _Z čárky kolečko měsíc udělá  

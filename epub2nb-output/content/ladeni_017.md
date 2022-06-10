@@ -1,6 +1,6 @@
 ---
 title: Velikonoční
-contentType: prose
+contentType: poetry
 ---
 
 _Josefu Zejdovi_

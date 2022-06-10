@@ -1,6 +1,6 @@
 ---
 title: HOŘKÁ…
-contentType: prose
+contentType: poetry
 ---
 
 

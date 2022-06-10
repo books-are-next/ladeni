@@ -1,6 +1,6 @@
 ---
 title: Hrejme dále
-contentType: prose
+contentType: poetry
 ---
 
 _To co k básni ladívalo  

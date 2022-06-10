@@ -1,6 +1,6 @@
 ---
 title: Domeček
-contentType: prose
+contentType: poetry
 ---
 
 _V domečku dětské hlavy  

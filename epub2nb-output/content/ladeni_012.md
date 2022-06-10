@@ -1,6 +1,6 @@
 ---
 title: Před usnutím II
-contentType: prose
+contentType: poetry
 ---
 
 _Kam jen ty hodiny v lese pověsili  

@@ -1,6 +1,6 @@
 ---
 title: Povídačka
-contentType: prose
+contentType: poetry
 ---
 
 _Jednou si les čet potichu  

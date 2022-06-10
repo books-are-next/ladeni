@@ -1,6 +1,6 @@
 ---
 title: Za básníkem
-contentType: prose
+contentType: poetry
 ---
 
 _Ó bázni Tanečnice pavučin  

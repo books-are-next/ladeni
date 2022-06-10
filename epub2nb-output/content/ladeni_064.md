@@ -1,6 +1,6 @@
 ---
 title: Bedřich Smetana
-contentType: prose
+contentType: poetry
 ---
 
 _Matečnou hudbu crkotů a vání  

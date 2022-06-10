@@ -1,6 +1,6 @@
 ---
 title: Poučení synovské
-contentType: prose
+contentType: poetry
 ---
 
 _Když probudí se hlína je to myš  

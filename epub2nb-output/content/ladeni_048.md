@@ -1,6 +1,6 @@
 ---
 title: Pod Zvičinou
-contentType: prose
+contentType: poetry
 ---
 
 _Do klína letů ptactva věštebného  

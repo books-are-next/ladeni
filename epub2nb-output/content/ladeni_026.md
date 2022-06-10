@@ -1,6 +1,6 @@
 ---
 title: "Jak přišla hrdlička k\_pásce"
-contentType: prose
+contentType: poetry
 ---
 
 _Maria Panna v samé práci  

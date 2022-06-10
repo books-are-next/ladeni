@@ -1,6 +1,6 @@
 ---
 title: Ráno
-contentType: prose
+contentType: poetry
 ---
 
 _Tak daleko se zaběhly  
