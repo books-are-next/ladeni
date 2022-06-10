@@ -3,6 +3,8 @@ title: Dnes zrovna tak
 contentType: poetry
 ---
 
+<section>
+
 _Josefu Horovi_
 
 _Z tolika nocí náš ukusoval hlad  
@@ -11,7 +13,9 @@ však po útratách vždycky zbyla
 zář co sny naše násobila  
 do součtu štěstí zrad_
 
-  
+</section>
+
+<section>
 
 _Z tolika veršů tvých se hlava motala  
 a dobře bylo když ti klesal hlas  
@@ -19,7 +23,9 @@ z jednoho ještě na srdci mám mráz
 TAM DOLE POMLOUVAJÍ NÁS  
 Má duše však se s tebou nebála_
 
-  
+</section>
+
+<section>
 
 _Z tolika kuželů jsi uměl nasoukat  
 slunečnou píseň i tu černající  
@@ -27,10 +33,14 @@ rozryvnou srdnatě neslzící
 obilí vtlučené a přece sypající  
 loudavý čas jde si je vyhrabat_
 
-  
+</section>
+
+<section>
 
 _Z tolika křiků bídy byla fanfára  
 co hřímávalo ztišeno je  
 a přísní vše co moje tvoje  
 Tvůj verš tiší mé nepokoje  
 dnes zrovna tak jak za stara_
+
+</section>

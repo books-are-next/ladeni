@@ -8,8 +8,8 @@
   "edition": "",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "halas-ladeni-628b68b",
-  "revision": "628b68b",
+  "identifier": "halas-ladeni-1a0215d",
+  "revision": "1a0215d",
   "readingOrder": [
     "promo.html",
     "ladeni_006.html",
@@ -85,8 +85,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:17:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870669709
+    "date": "Fri Jun 10 2022 17:52:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883526135
   },
   "documents": [
     {
@@ -184,9 +184,9 @@
     {
       "title": "Poučení synovské",
       "file": "ladeni_010.html",
-      "words": 2,
-      "chars": 16,
-      "ideas": 1,
+      "words": 27,
+      "chars": 139,
+      "ideas": 5,
       "role": "chapter",
       "order": 5,
       "prev": "ladeni_009.html",
@@ -244,9 +244,9 @@
     {
       "title": "Před usnutím III",
       "file": "ladeni_013.html",
-      "words": 3,
-      "chars": 16,
-      "ideas": 1,
+      "words": 24,
+      "chars": 124,
+      "ideas": 5,
       "role": "chapter",
       "order": 8,
       "prev": "ladeni_012.html",
@@ -1284,9 +1284,9 @@
     {
       "title": "Variace na nerudovské téma",
       "file": "ladeni_065.html",
-      "words": 4,
-      "chars": 26,
-      "ideas": 1,
+      "words": 34,
+      "chars": 182,
+      "ideas": 5,
       "role": "chapter",
       "order": 60,
       "prev": "ladeni_064.html",
@@ -1504,9 +1504,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 112,
-      "chars": 736,
-      "ideas": 17,
+      "words": 74,
+      "chars": 517,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "ladeni_075.html",
@@ -1524,14 +1524,14 @@
   ],
   "totals": {
     "all": {
-      "words": 5641,
-      "chars": 30461,
-      "ideas": 1230
+      "words": 5679,
+      "chars": 30629,
+      "ideas": 1232
     },
     "chapters": {
-      "words": 5525,
-      "chars": 29701,
-      "ideas": 1210
+      "words": 5601,
+      "chars": 30088,
+      "ideas": 1222
     }
   }
 }
