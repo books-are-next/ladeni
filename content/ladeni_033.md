@@ -1,6 +1,6 @@
 ---
 title: Loutna
-contentType: prose
+contentType: poetry
 ---
 
 _Přezpívám neživé zhaslé věci  

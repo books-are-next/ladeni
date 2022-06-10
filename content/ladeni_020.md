@@ -1,6 +1,6 @@
 ---
 title: Mlýnek
-contentType: prose
+contentType: poetry
 ---
 
 _Tak šup a honem do peřinek  

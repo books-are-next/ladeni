@@ -1,6 +1,6 @@
 ---
 title: Hádanka první
-contentType: prose
+contentType: poetry
 ---
 
 _Moc a moc malých švadlenek  

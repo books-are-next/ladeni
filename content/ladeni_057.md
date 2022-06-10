@@ -1,6 +1,6 @@
 ---
 title: Petru Bezručovi
-contentType: prose
+contentType: poetry
 ---
 
 _Dál běží země k fialkám zas běží  

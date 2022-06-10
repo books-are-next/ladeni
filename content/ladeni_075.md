@@ -1,6 +1,6 @@
 ---
 title: Prosba
-contentType: prose
+contentType: poetry
 ---
 
 _Ne Pane nejsem hoden přízně Tvé  

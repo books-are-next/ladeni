@@ -1,6 +1,6 @@
 ---
 title: Památce K\. H\. M\.
-contentType: prose
+contentType: poetry
 ---
 
 _V šustotu tenkém prvních pršek máje  

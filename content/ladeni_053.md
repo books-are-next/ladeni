@@ -1,6 +1,6 @@
 ---
 title: Vypravěč
-contentType: prose
+contentType: poetry
 ---
 
 _Jaromíru Johnovi_

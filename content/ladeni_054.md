@@ -1,6 +1,6 @@
 ---
 title: Karlu Tomanovi
-contentType: prose
+contentType: poetry
 ---
 
 _Ptactvo nebeské  

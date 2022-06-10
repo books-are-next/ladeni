@@ -1,6 +1,6 @@
 ---
 title: "Otec a\_syn"
-contentType: prose
+contentType: poetry
 ---
 
 _Památce Jana Nerudy_

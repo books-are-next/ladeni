@@ -1,6 +1,6 @@
 ---
 title: DO USÍNÁNÍ…
-contentType: prose
+contentType: poetry
 ---
 
 

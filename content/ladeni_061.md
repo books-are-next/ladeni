@@ -1,6 +1,6 @@
 ---
 title: Za Jiřím Ortenem
-contentType: prose
+contentType: poetry
 ---
 
 _V měsíci sklizně  

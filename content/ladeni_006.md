@@ -1,6 +1,6 @@
 ---
 title: Slova
-contentType: prose
+contentType: poetry
 ---
 
 _Taková těžká těžší vzletu vrány  

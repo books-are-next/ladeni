@@ -1,6 +1,6 @@
 ---
 title: Radosti…
-contentType: prose
+contentType: poetry
 ---
 
 _MUDr. Milanu Čížkovi_

@@ -1,6 +1,6 @@
 ---
 title: Před usnutím III
-contentType: prose
+contentType: poetry
 ---
 
 _Umíš hrom Čímpak vítr hvízdá  

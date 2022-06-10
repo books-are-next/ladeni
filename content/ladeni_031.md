@@ -1,6 +1,6 @@
 ---
 title: "Déšť v\_listopadu"
-contentType: prose
+contentType: poetry
 ---
 
 _Taková voda  

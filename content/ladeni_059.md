@@ -1,6 +1,6 @@
 ---
 title: ZA HROB
-contentType: prose
+contentType: poetry
 ---
 
 

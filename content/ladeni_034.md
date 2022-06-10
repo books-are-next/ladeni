@@ -1,6 +1,6 @@
 ---
 title: Střídání
-contentType: prose
+contentType: poetry
 ---
 
 _Noc troubí Ta má tma  

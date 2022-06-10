@@ -1,6 +1,6 @@
 ---
 title: "Hádanka třetí s\_rozřešením"
-contentType: prose
+contentType: poetry
 ---
 
 _Jedna má nožička  

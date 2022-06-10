@@ -1,6 +1,6 @@
 ---
 title: Ještě teď
-contentType: prose
+contentType: poetry
 ---
 
 _Ještě teď se olizuji Ještě dnes  

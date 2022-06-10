@@ -1,6 +1,6 @@
 ---
 title: Loučení
-contentType: prose
+contentType: poetry
 ---
 
 _Vytrhnout slova i s kořínky  

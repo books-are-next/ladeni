@@ -1,6 +1,6 @@
 ---
 title: STISKY
-contentType: prose
+contentType: poetry
 ---
 
 

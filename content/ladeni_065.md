@@ -1,6 +1,6 @@
 ---
 title: Variace na nerudovské téma
-contentType: prose
+contentType: poetry
 ---
 
 _Kdyby tak v parku sedával jak sedal před lety  

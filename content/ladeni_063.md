@@ -1,6 +1,6 @@
 ---
 title: In memoriam
-contentType: prose
+contentType: poetry
 ---
 
 _Bezradný den po noci bezradnosti  

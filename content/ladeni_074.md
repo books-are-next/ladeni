@@ -1,6 +1,6 @@
 ---
 title: Březen 1939
-contentType: prose
+contentType: poetry
 ---
 
 _To obludné to úskok samý  

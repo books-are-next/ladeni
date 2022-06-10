@@ -1,6 +1,6 @@
 ---
 title: PSÍ VÍNO
-contentType: prose
+contentType: poetry
 ---
 
 

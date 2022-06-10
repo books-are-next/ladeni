@@ -1,6 +1,6 @@
 ---
 title: Opuštěná paleta
-contentType: prose
+contentType: poetry
 ---
 
 _Nevím zda báseň právo má  

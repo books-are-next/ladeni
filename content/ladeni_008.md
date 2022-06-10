@@ -1,6 +1,6 @@
 ---
 title: Ladění
-contentType: prose
+contentType: poetry
 ---
 
 _Malou noční hudbu slov odzpívaných z ráje  

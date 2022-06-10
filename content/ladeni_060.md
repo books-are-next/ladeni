@@ -1,6 +1,6 @@
 ---
 title: Smrt Jiřího Mahena
-contentType: prose
+contentType: poetry
 ---
 
 _Na katafalku hrůzy leží mrtvý  

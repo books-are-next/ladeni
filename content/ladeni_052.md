@@ -1,6 +1,6 @@
 ---
 title: Dnes zrovna tak
-contentType: prose
+contentType: poetry
 ---
 
 _Josefu Horovi_

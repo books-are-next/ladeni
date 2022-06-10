@@ -1,6 +1,6 @@
 ---
 title: Poučení otcovské
-contentType: prose
+contentType: poetry
 ---
 
 _To nejsou vlnky  

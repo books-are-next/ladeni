@@ -1,6 +1,6 @@
 ---
 title: Přes paletu
-contentType: prose
+contentType: poetry
 ---
 
 _Vilému Plockovi_

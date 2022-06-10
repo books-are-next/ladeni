@@ -1,6 +1,6 @@
 ---
 title: Básník
-contentType: prose
+contentType: poetry
 ---
 
 _Nejedno noční z mžených jmen  

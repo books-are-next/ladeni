@@ -1,6 +1,6 @@
 ---
 title: Hořká
-contentType: prose
+contentType: poetry
 ---
 
 _Noc křídel neměla  

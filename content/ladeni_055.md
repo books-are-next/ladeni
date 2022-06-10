@@ -1,6 +1,6 @@
 ---
 title: Pro Antonína Procházku
-contentType: prose
+contentType: poetry
 ---
 
 _Když vcházím po špičkách  
