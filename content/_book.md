@@ -12,7 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-10-04T09:05:37.248Z'
   publisherShort: mkp
-  edition: poezie
+  edition: ''
 readingOrder:
   - promo.html
   - ladeni_006.html
