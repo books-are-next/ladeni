@@ -5,11 +5,11 @@
   "title": "Ladění",
   "author": "František Halas",
   "publisher": "Městská knihovna v Praze",
-  "edition": "",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "halas-ladeni-9f1a4b9",
-  "revision": "9f1a4b9",
+  "identifier": "halas-ladeni-f4accf7",
+  "revision": "f4accf7",
   "readingOrder": [
     "promo.html",
     "ladeni_006.html",
@@ -85,8 +85,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:52:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272347576
+    "date": "Thu Jun 16 2022 07:31:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364676655
   },
   "documents": [
     {
@@ -1524,9 +1524,9 @@
   ],
   "totals": {
     "all": {
-      "words": 5731,
-      "chars": 30955,
-      "ideas": 1242
+      "words": 5732,
+      "chars": 30961,
+      "ideas": 1243
     },
     "chapters": {
       "words": 5601,
