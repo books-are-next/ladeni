@@ -58,7 +58,7 @@
             "filename": "ladeni_003.md",
             "xhtml": "ladeni_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -67,7 +67,7 @@
             "filename": "ladeni_004.md",
             "xhtml": "ladeni_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -76,7 +76,7 @@
             "filename": "ladeni_005.md",
             "xhtml": "ladeni_005.xhtml",
             "id": 4,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -791,7 +791,7 @@
             "filename": "ladeni_076.md",
             "xhtml": "ladeni_076.xhtml",
             "id": 75,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
