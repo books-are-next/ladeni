@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "halas-ladeni-ca57633",
-  "revision": "ca57633",
+  "identifier": "halas-ladeni-e34395e",
+  "revision": "e34395e",
   "readingOrder": [
     "promo.html",
     "ladeni_006.html",
@@ -82,11 +82,11 @@
     "ladeni_073.html",
     "ladeni_074.html",
     "ladeni_075.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:12:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979157779
+    "date": "Thu Jul 07 2022 08:33:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182806560
   },
   "documents": [
     {
@@ -415,7 +415,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak to kdo vidí",
+          "name": "Jak to kdo vidí",
           "id": null,
           "children": []
         }
@@ -1295,7 +1295,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Variace na nerudovské téma",
+          "name": "Variace na nerudovské téma",
           "id": null,
           "children": []
         }
@@ -1490,7 +1490,7 @@
       "role": "chapter",
       "order": 70,
       "prev": "ladeni_074.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1503,11 +1503,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 126,
-      "chars": 843,
+      "chars": 842,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "ladeni_075.html",
       "next": null,
@@ -1525,7 +1525,7 @@
   "totals": {
     "all": {
       "words": 5732,
-      "chars": 30961,
+      "chars": 30960,
       "ideas": 1243
     },
     "chapters": {

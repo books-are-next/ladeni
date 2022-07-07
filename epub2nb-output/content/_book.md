@@ -85,7 +85,7 @@ readingOrder:
   - ladeni_073.html
   - ladeni_074.html
   - ladeni_075.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
