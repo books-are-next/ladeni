@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "halas-ladeni-df3d3a5",
-  "revision": "df3d3a5",
+  "identifier": "halas-ladeni-2ee4c02",
+  "revision": "2ee4c02",
   "readingOrder": [
     "promo.html",
     "ladeni_006.html",
@@ -85,8 +85,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:04:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151444777
+    "date": "Mon Oct 10 2022 15:56:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417392688
   },
   "documents": [
     {
@@ -1505,7 +1505,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 126,
-      "chars": 843,
+      "chars": 844,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -1525,7 +1525,7 @@
   "totals": {
     "all": {
       "words": 5732,
-      "chars": 30961,
+      "chars": 30962,
       "ideas": 1243
     },
     "chapters": {
